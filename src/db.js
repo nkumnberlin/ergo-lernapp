@@ -50,6 +50,23 @@ export async function createCategory(name) {
   return check(await sb.from('categories').insert({ name }).select().single())
 }
 
+export async function renameCategory(id, name) {
+  if (demo) return void demoSet((d) => ({ ...d, categories: d.categories.map((c) => (c.id === id ? { ...c, name } : c)) }))
+  mustChange(check(await sb.from('categories').update({ name }).eq('id', id).select()))
+}
+
+// RLS blockt still (0 Zeilen statt Fehler), deshalb Ergebnis prüfen
+const mustChange = (rows) => {
+  if (!rows.length) throw new Error('Keine Berechtigung. Wurde supabase/02-kategorien-verwalten.sql ausgeführt?')
+}
+
+// Zuordnungen verschwinden per "on delete cascade" mit, die Fragen bleiben
+export async function deleteCategory(id) {
+  if (demo)
+    return void demoSet((d) => ({ categories: d.categories.filter((c) => c.id !== id), links: d.links.filter((l) => l.category_id !== id) }))
+  mustChange(check(await sb.from('categories').delete().eq('id', id).select()))
+}
+
 export async function setLink(nummer, category_id, on) {
   if (demo) {
     demoSet((d) => ({

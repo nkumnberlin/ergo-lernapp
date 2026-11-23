@@ -1,6 +1,7 @@
 {
   "version": "0.0.1",
   "configurations": [
-    { "name": "app", "runtimeExecutable": "pnpm", "runtimeArgs": ["run", "dev"], "port": 5173 }
+    { "name": "app", "runtimeExecutable": "pnpm", "runtimeArgs": ["run", "dev"], "port": 5173 },
+    { "name": "app-demo", "runtimeExecutable": "env", "runtimeArgs": ["VITE_SUPABASE_URL=", "pnpm", "run", "dev", "--port", "5174"], "port": 5174 }
   ]
 }

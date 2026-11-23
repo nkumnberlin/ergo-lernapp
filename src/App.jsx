@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useState } from 'react'
-import { loadAll, createCategory, setLink, demo } from './db.js'
+import { loadAll, createCategory, renameCategory, deleteCategory, setLink, demo } from './db.js'
 import { isMC, scoreQuestion, totalPercent, hasAnswer } from './model.js'
 import { QuestionView, CatPanel } from './Question.jsx'
+import { Manage } from './Manage.jsx'
 
 const EXAM_MINUTES = 180
 const SESSION_KEY = 'ergo-sitzung'
@@ -19,6 +20,7 @@ export default function App() {
   const [saveError, setSaveError] = useState(null)
   const [session, setSession] = useState(loadSession)
   const [review, setReview] = useState(null) // nummer der Frage, die aus der Auswertung geöffnet ist
+  const [manage, setManage] = useState(false)
 
   useEffect(() => {
     loadAll().then(setData, (e) => setLoadError(e.message))
@@ -30,7 +32,7 @@ export default function App() {
   }, [session])
   useEffect(() => {
     window.scrollTo(0, 0)
-  }, [session?.idx, session?.finished, review])
+  }, [session?.idx, session?.finished, review, manage])
 
   const catsByQ = useMemo(() => {
     const m = new Map()
@@ -60,9 +62,26 @@ export default function App() {
     try {
       const cat = await createCategory(name)
       setData((d) => ({ ...d, categories: [...d.categories, cat].sort((a, b) => a.name.localeCompare(b.name, 'de')) }))
-      await toggle(nummer, cat.id)
+      if (nummer != null) await toggle(nummer, cat.id)
     } catch (e) {
       setSaveError(`Kategorie konnte nicht angelegt werden: ${e.message}`)
+    }
+  }
+  const sortByName = (cats) => [...cats].sort((a, b) => a.name.localeCompare(b.name, 'de'))
+  const rename = async (id, name) => {
+    try {
+      await renameCategory(id, name)
+      setData((d) => ({ ...d, categories: sortByName(d.categories.map((c) => (c.id === id ? { ...c, name } : c))) }))
+    } catch (e) {
+      setSaveError(`Umbenennen fehlgeschlagen: ${e.message}`)
+    }
+  }
+  const remove = async (id) => {
+    try {
+      await deleteCategory(id)
+      setData((d) => ({ ...d, categories: d.categories.filter((c) => c.id !== id), links: d.links.filter((l) => l.category_id !== id) }))
+    } catch (e) {
+      setSaveError(`Löschen fehlgeschlagen: ${e.message}`)
     }
   }
   const catPanel = (q) => (
@@ -77,7 +96,8 @@ export default function App() {
 
   const ctx = { data, byNr, catsOf, catPanel, setAnswer, session, setSession, finish }
   let body
-  if (!session) body = <Start data={data} catsOf={catsOf} onStart={start} />
+  if (manage) body = <Manage data={data} catsOf={catsOf} toggle={toggle} create={create} rename={rename} remove={remove} back={() => setManage(false)} />
+  else if (!session) body = <Start data={data} catsOf={catsOf} onStart={start} onManage={() => setManage(true)} />
   else if (!session.finished) body = session.mode === 'exam' ? <Exam {...ctx} /> : <Learn {...ctx} />
   else if (review != null) body = <Review {...ctx} nummer={review} open={setReview} back={() => setReview(null)} />
   else body = <Result {...ctx} open={setReview} onStart={start} reset={() => setSession(null)} />
@@ -115,7 +135,7 @@ function shuffle(a) {
 }
 
 // ---------- Start ----------
-function Start({ data, catsOf, onStart }) {
+function Start({ data, catsOf, onStart, onManage }) {
   const [mode, setMode] = useState('learn')
   const [sel, setSel] = useState(new Set(['alle']))
   const [count, setCount] = useState('alle')
@@ -140,7 +160,7 @@ function Start({ data, catsOf, onStart }) {
   }
 
   return (
-    <Shell meta={`${data.questions.length} Fragen · ${data.categories.length} Themen`}>
+    <Shell meta={<>{data.questions.length} Fragen · {data.categories.length} Themen <button className="btn small ghost" onClick={onManage}>Kategorien verwalten</button></>}>
       <div className="col">
         <h1>Was möchtest du üben?</h1>
         <p className="hint">Dein Fortschritt bleibt in diesem Browser gespeichert.</p>

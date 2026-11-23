@@ -2,6 +2,16 @@
 
 Lern- und Klausur-App für die Ergotherapie-Ausbildung. React + Vite, Daten in Supabase, Hosting auf Vercel. Beides kostenlos.
 
+**Live:** https://ergo-lernapp.vercel.app/
+
+## Funktionen
+- **Lernmodus:** Frage für Frage, Auflösung sofort danach, Prozentwert am Ende.
+- **Klausurmodus:** 180 Minuten Countdown, freie Navigation, Fragen als „unsicher“ markieren, Auswertung erst am Ende.
+- **Fragetypen:** x aus 5, Wahr/Falsch, schriftliche Antworten (Selbsteinstufung mit Checkliste der Musterantwort), Tabellen zum Ankreuzen oder Ausfüllen.
+- **Kategorien:** Nach der Auflösung einer Frage zuordnen (mehrere möglich). Auf der Startseite Themen auswählen oder alle mischen.
+- **Kategorien verwalten** (Button oben rechts auf der Startseite): Kategorien anlegen, umbenennen und löschen. Alle Fragen durchsuchen, nach Kategorie filtern, neu zuordnen oder aus einer Kategorie entfernen.
+- Hinweis „Lösung unsicher“ bei Musterlösungen, die nicht eindeutig belegt sind.
+
 ## Lokal starten
 
 ```bash
@@ -9,7 +19,11 @@ pnpm i
 pnpm dev
 ```
 
-Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kategorien nur im eigenen Browser.
+Mit `.env` arbeitet die lokale App auf der **echten** Supabase-Datenbank. Ohne `.env` läuft sie im **Demo-Modus**: Fragen aus `data/fragen.json`, Kategorien nur im eigenen Browser. Demo-Modus trotz `.env`:
+
+```bash
+VITE_SUPABASE_URL= pnpm dev
+```
 
 ## Einrichtung (einmalig)
 
@@ -23,21 +37,24 @@ Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kat
    pnpm import-fragen
    ```
 
+> **Bestehendes Projekt** (vor der Kategorien-Verwaltung angelegt): einmal `supabase/02-kategorien-verwalten.sql` im SQL Editor ausführen. Sonst schlagen Umbenennen und Löschen mit „Keine Berechtigung“ fehl.
+
 ### 2. Vercel
-1. Projekt auf GitHub pushen.
-2. Auf [vercel.com](https://vercel.com) → **Add New → Project** → Repo importieren (Framework wird als Vite erkannt).
-3. Unter **Environment Variables** nur diese zwei eintragen:
+1. Auf [vercel.com](https://vercel.com) → **Add New → Project** → GitHub-Repo importieren (Vite und pnpm werden erkannt).
+2. Unter **Environment Variables** nur diese zwei eintragen:
    - `VITE_SUPABASE_URL`
    - `VITE_SUPABASE_KEY` (der *Publishable* Key)
-4. **Deploy**. Den Secret Key **nie** bei Vercel eintragen.
+3. **Deploy**. Den Secret Key **nie** bei Vercel eintragen.
+
+Jeder Push auf `main` wird automatisch neu deployt. Werden die Variablen geändert: **Redeploy**, weil `VITE_`-Variablen beim Build eingebaut werden.
 
 ## Pflege (ohne neu bauen)
 
 | Was | Wie |
 |---|---|
 | Neue/geänderte Fragen | JSON-Datei ergänzen → `pnpm import-fragen pfad/zur/datei.json`. Gleiche `nummer` = Aktualisierung. Fehlerhafte Dateien werden komplett abgelehnt. |
+| Kategorien anlegen, umbenennen, löschen, zuordnen | In der App: Startseite → **Kategorien verwalten** |
 | Erklärung zu einer Frage | Supabase → Table Editor → `questions` → Spalte `erklaerung` |
-| Kategorie umbenennen/löschen | Supabase → Table Editor → `categories` |
 | „Lösung unsicher“-Hinweis entfernen | Musterlösung korrigieren (Wörter wie „wahrscheinlich“, „plausibel“ am Anfang entfernen) und neu importieren |
 
 ### Optionale Felder in `aufgabenmaterial`
@@ -46,7 +63,7 @@ Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kat
 
 ## Hinweise
 - Ein kostenloses Supabase-Projekt pausiert nach 7 Tagen ohne Nutzung. Im Supabase-Dashboard mit einem Klick wieder aktivieren.
-- Ohne Anmeldung kann jeder mit dem Link Kategorien anlegen und zuordnen. Fragen ändern geht nur mit dem Secret Key.
+- Ohne Anmeldung kann jeder mit dem Link Kategorien anlegen, umbenennen, löschen und zuordnen. Fragen ändern geht nur mit dem Secret Key.
 - Lernfortschritt und laufende Klausur liegen im `localStorage` des Browsers.
 - Wertung: x aus 5 = max(0, richtige − falsche Kreuze) / Anzahl richtiger Antworten. Schriftlich: Selbsteinstufung 1 / 0,5 / 0. Jede Frage zählt gleich viel.
 
