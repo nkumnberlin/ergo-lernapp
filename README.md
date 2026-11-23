@@ -5,8 +5,8 @@ Lern- und Klausur-App für die Ergotherapie-Ausbildung. React + Vite, Daten in S
 ## Lokal starten
 
 ```bash
-npm install
-npm run dev
+pnpm i
+pnpm dev
 ```
 
 Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kategorien nur im eigenen Browser.
@@ -20,7 +20,7 @@ Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kat
 4. `.env.example` nach `.env` kopieren und die Werte eintragen.
 5. Fragen hochladen:
    ```bash
-   npm run import
+   pnpm import-fragen
    ```
 
 ### 2. Vercel
@@ -35,7 +35,7 @@ Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kat
 
 | Was | Wie |
 |---|---|
-| Neue/geänderte Fragen | JSON-Datei ergänzen → `npm run import -- pfad/zur/datei.json`. Gleiche `nummer` = Aktualisierung. Fehlerhafte Dateien werden komplett abgelehnt. |
+| Neue/geänderte Fragen | JSON-Datei ergänzen → `pnpm import-fragen pfad/zur/datei.json`. Gleiche `nummer` = Aktualisierung. Fehlerhafte Dateien werden komplett abgelehnt. |
 | Erklärung zu einer Frage | Supabase → Table Editor → `questions` → Spalte `erklaerung` |
 | Kategorie umbenennen/löschen | Supabase → Table Editor → `categories` |
 | „Lösung unsicher“-Hinweis entfernen | Musterlösung korrigieren (Wörter wie „wahrscheinlich“, „plausibel“ am Anfang entfernen) und neu importieren |
@@ -51,5 +51,5 @@ Ohne `.env` läuft die App im **Demo-Modus**: Fragen aus `data/fragen.json`, Kat
 - Wertung: x aus 5 = max(0, richtige − falsche Kreuze) / Anzahl richtiger Antworten. Schriftlich: Selbsteinstufung 1 / 0,5 / 0. Jede Frage zählt gleich viel.
 
 ```bash
-npm test   # Wertungslogik prüfen
+pnpm test   # Wertungslogik prüfen
 ```

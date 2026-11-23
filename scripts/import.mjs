@@ -1,5 +1,5 @@
 // Fragen aus einer JSON-Datei in Supabase übernehmen (neue anlegen, vorhandene per "nummer" aktualisieren).
-// Aufruf: npm run import -- data/fragen.json
+// Aufruf: pnpm import-fragen data/fragen.json
 // Kategorien und Erklärungen bleiben unberührt.
 import { readFileSync } from 'node:fs'
 import { createClient } from '@supabase/supabase-js'

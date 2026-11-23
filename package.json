@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "node --test src/",
-    "import": "node --env-file=.env scripts/import.mjs"
+    "import-fragen": "node --env-file-if-exists=.env scripts/import.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.2",
