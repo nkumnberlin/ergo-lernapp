@@ -1,0 +1,323 @@
+<title>Ergo Klausurtrainer</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: ruhige Lesespalte (max 760px) unter schmaler Kopfleiste; Klausurmodus mit Fragen-Raster rechts */
+:root{
+  --bg:#f5f7f8; --surface:#ffffff; --fg:#1d2a33; --muted:#5d6b75; --line:#dbe2e6;
+  --accent:#2f6f8f; --accent-soft:#e3eff5;
+  --ok:#2e7d4f; --ok-soft:#e2f2e8; --bad:#b3412f; --bad-soft:#f8e4df; --miss:#865800; --miss-soft:#fbf0d9;
+  --font:"Atkinson Hyperlegible",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#141b20; --surface:#1c252c; --fg:#e4eaee; --muted:#9aa8b2; --line:#2e3a42;
+  --accent:#7db8d6; --accent-soft:#1f3442;
+  --ok:#6cc595; --ok-soft:#1c3327; --bad:#ec8a78; --bad-soft:#3b221d; --miss:#e2b45a; --miss-soft:#372c15; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141b20; --surface:#1c252c; --fg:#e4eaee; --muted:#9aa8b2; --line:#2e3a42;
+  --accent:#7db8d6; --accent-soft:#1f3442;
+  --ok:#6cc595; --ok-soft:#1c3327; --bad:#ec8a78; --bad-soft:#3b221d; --miss:#e2b45a; --miss-soft:#372c15; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:17px/1.55 var(--font)}
+.wrap{max-width:1040px;margin:0 auto;padding-block:20px 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.mocknav{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.mocknav button{font:inherit;font-size:14px;border:1px solid var(--line);background:var(--surface);color:var(--muted);padding:6px 12px;border-radius:999px;cursor:pointer}
+.mocknav button[aria-selected="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.mocknote{font-size:14px;color:var(--muted);margin:0 0 20px}
+header.app{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:12px 0 14px;border-bottom:1px solid var(--line);margin-bottom:28px}
+.brand{font-weight:700;letter-spacing:.01em}
+.meta{font-size:14px;color:var(--muted);display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.timer{font-family:var(--mono);font-size:20px;color:var(--fg);font-variant-numeric:tabular-nums}
+.col{max-width:760px}
+h1{font-size:28px;line-height:1.25;margin:0 0 6px;text-wrap:balance}
+h2{font-size:21px;line-height:1.35;margin:0 0 20px;font-weight:700;text-wrap:balance}
+h3{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:0 0 10px}
+.qhead{display:flex;justify-content:space-between;gap:12px;font-size:14px;color:var(--muted);margin-bottom:10px;flex-wrap:wrap}
+.chip{display:inline-block;font-size:13px;padding:2px 10px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.chip.none{background:transparent;border:1px dashed var(--line);color:var(--muted)}
+.bar{height:4px;background:var(--line);border-radius:2px;margin-bottom:26px}
+.bar span{display:block;height:100%;background:var(--accent);border-radius:2px}
+.opts{display:grid;gap:10px;margin-bottom:22px}
+.opt{display:grid;grid-template-columns:28px 22px 1fr auto;gap:12px;align-items:center;padding:13px 16px;border:1px solid var(--line);border-radius:10px;background:var(--surface);cursor:pointer}
+.opt .L{font-family:var(--mono);color:var(--muted)}
+.opt input{width:20px;height:20px;accent-color:var(--accent);margin:0}
+.opt .tag{font-size:13px;font-weight:700;white-space:nowrap}
+.opt.ok{border-color:var(--ok);background:var(--ok-soft)} .opt.ok .tag{color:var(--ok)}
+.opt.bad{border-color:var(--bad);background:var(--bad-soft)} .opt.bad .tag{color:var(--bad)}
+.opt.miss{border:2px dashed var(--miss);background:var(--miss-soft)} .opt.miss .tag{color:var(--miss)}
+.opt.dim{color:var(--muted)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{font:inherit;font-size:16px;padding:10px 20px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.btn.ghost{background:transparent}
+.btn:focus-visible,.opt:focus-within,select:focus-visible,input:focus-visible,textarea:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.panel{border:1px solid var(--line);border-radius:10px;background:var(--surface);padding:16px 18px;margin-bottom:16px}
+.score{display:flex;gap:18px;align-items:baseline;flex-wrap:wrap}
+.score b{font-family:var(--mono);font-size:22px;font-variant-numeric:tabular-nums}
+.score small{color:var(--muted);font-size:14px}
+.empty{color:var(--muted);font-style:italic}
+.catpanel{border:2px solid var(--accent);background:var(--accent-soft)}
+.catpanel select,.catpanel input[type=text]{background:var(--surface)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chips button{font:inherit;font-size:15px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.chips button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.chips button[aria-pressed="true"]::before{content:"✓ "}
+.qcats{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.linkbtn{font:inherit;font-size:13px;background:none;border:0;color:var(--accent);text-decoration:underline;cursor:pointer;padding:0}
+.mat{overflow-x:auto;margin-bottom:18px}
+.mat table{font-size:15px;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.mat td.c,.mat th.c{text-align:center;width:120px}
+.mat input[type=checkbox]{width:20px;height:20px;accent-color:var(--accent)}
+.warn{background:var(--miss-soft);color:var(--fg);border:1px solid var(--miss);padding:10px 14px;border-radius:6px;font-size:15px;margin-bottom:16px}
+.check{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+.check label{display:grid;grid-template-columns:22px 1fr;gap:10px;align-items:start;cursor:pointer}
+.check input{width:18px;height:18px;margin-top:3px;accent-color:var(--ok)}
+.catrow{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+select,input[type=text],textarea{font:inherit;font-size:16px;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+textarea{width:100%;min-height:92px;resize:vertical;line-height:1.5}
+.sub{display:grid;gap:8px;margin-bottom:22px}
+.subq{font-weight:700}
+.cmp{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.cmp>div{min-width:0;padding:12px 14px;border-radius:8px;font-size:16px}
+.cmp .mine{background:var(--bg);border:1px solid var(--line)}
+.cmp .model{background:var(--accent-soft)}
+.cmp h3{margin-bottom:6px}
+.rate{display:flex;gap:6px;flex-wrap:wrap}
+.rate button{font:inherit;font-size:14px;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.rate button[aria-pressed="true"].r1{background:var(--ok);border-color:var(--ok);color:var(--surface)}
+.rate button[aria-pressed="true"].r2{background:var(--miss);border-color:var(--miss);color:var(--surface)}
+.rate button[aria-pressed="true"].r3{background:var(--bad);border-color:var(--bad);color:var(--surface)}
+.divider{border:0;border-top:1px solid var(--line);margin:26px 0}
+.exam{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:32px;align-items:start}
+.grid{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}
+.grid button{font-family:var(--mono);font-size:13px;aspect-ratio:1;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer;position:relative;padding:0}
+.grid .done{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.grid .cur{outline:2px solid var(--fg);outline-offset:1px;color:var(--fg)}
+.grid .flag::after{content:"";position:absolute;top:3px;right:3px;width:7px;height:7px;border-radius:50%;background:var(--miss)}
+.legend{display:grid;gap:4px;font-size:13px;color:var(--muted);margin-top:12px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:8px;vertical-align:-1px;border:1px solid var(--line)}
+.topics{display:grid;gap:8px;margin-bottom:22px}
+.topic{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border:1px solid var(--line);border-radius:8px;background:var(--surface);gap:12px}
+.topic label{display:flex;gap:10px;align-items:center;cursor:pointer}
+.topic input{width:18px;height:18px;accent-color:var(--accent)}
+.topic span.n{font-family:var(--mono);font-size:14px;color:var(--muted)}
+.modes{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:26px}
+.mode{border:1px solid var(--line);border-radius:10px;padding:16px;background:var(--surface);cursor:pointer}
+.mode[aria-checked="true"]{border:2px solid var(--accent);background:var(--accent-soft)}
+.mode b{display:block;margin-bottom:4px}
+.mode p{margin:0;font-size:15px;color:var(--muted)}
+.big{font-family:var(--mono);font-size:64px;line-height:1;font-variant-numeric:tabular-nums}
+.res{display:grid;grid-template-columns:auto 1fr;gap:28px;align-items:center;margin-bottom:24px}
+.kv{display:grid;grid-template-columns:auto auto;gap:4px 18px;font-size:15px;font-variant-numeric:tabular-nums}
+.kv span:nth-child(odd){color:var(--muted)}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:13px;color:var(--muted);font-weight:400;text-transform:uppercase;letter-spacing:.06em}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tbl{overflow-x:auto}
+.badge{font-size:12px;padding:1px 8px;border-radius:999px;white-space:nowrap}
+.badge.bad{background:var(--bad-soft);color:var(--bad)} .badge.miss{background:var(--miss-soft);color:var(--miss)}
+.resume{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;background:var(--accent-soft);border-radius:10px;padding:12px 16px;margin-bottom:26px;font-size:15px}
+@media (max-width:760px){.exam,.cmp,.modes,.res{grid-template-columns:1fr}.opt{grid-template-columns:22px 20px 1fr}.opt .tag{grid-column:3}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <nav class="mocknav" role="tablist" aria-label="Mockup-Screens">
+    <button role="tab" data-s="start" aria-selected="true">1 · Start</button>
+    <button role="tab" data-s="mc">2 · Lernen: x aus 5</button>
+    <button role="tab" data-s="ft">3 · Lernen: Freitext</button>
+    <button role="tab" data-s="exam">4 · Klausur</button>
+    <button role="tab" data-s="res">5 · Auswertung</button>
+  </nav>
+  <p class="mocknote">Mockup, Beispieldaten. Screens oben umschalten. Ankreuzen und Selbsteinstufung sind klickbar.</p>
+
+  <!-- START -->
+  <section data-screen="start">
+    <header class="app"><span class="brand">Ergo Klausurtrainer</span><span class="meta">157 Fragen · 5 Themen</span></header>
+    <div class="col">
+      <div class="resume"><span>Lernsitzung von gestern: Frage 18 von 40, bisher 71 %</span><button class="btn">Fortsetzen</button></div>
+      <h1>Was möchtest du üben?</h1>
+      <p style="color:var(--muted);margin:0 0 22px">Dein Fortschritt bleibt in diesem Browser gespeichert.</p>
+      <div class="modes" role="radiogroup">
+        <div class="mode" role="radio" aria-checked="true" tabindex="0"><b>Lernmodus</b><p>Frage für Frage, Auflösung sofort danach.</p></div>
+        <div class="mode" role="radio" aria-checked="false" tabindex="0"><b>Klausurmodus</b><p>180 Minuten Countdown, Auswertung erst am Ende.</p></div>
+      </div>
+      <h3>Themen</h3>
+      <div class="topics">
+        <div class="topic"><label><input type="checkbox" id="t-all"> <b>Alle mischen</b></label><span class="n">312</span></div>
+        <div class="topic"><label><input type="checkbox" id="t1" checked> Neurologie</label><span class="n">48</span></div>
+        <div class="topic"><label><input type="checkbox" id="t2" checked> Exekutive Funktionen</label><span class="n">21</span></div>
+        <div class="topic"><label><input type="checkbox" id="t3"> Geriatrie / Demenz</label><span class="n">33</span></div>
+        <div class="topic"><label><input type="checkbox" id="t4"> Pädiatrie</label><span class="n">29</span></div>
+        <div class="topic"><label><input type="checkbox" id="t5"> Ohne Kategorie</label><span class="n">153</span></div>
+      </div>
+      <p style="margin:-12px 0 18px;font-size:14px;color:var(--muted)">Eine Frage kann in mehreren Themen stehen. Ausgewählt kommt sie trotzdem nur einmal dran.</p>
+      <div class="row" style="margin-bottom:8px">
+        <label for="cnt">Anzahl Fragen</label>
+        <select id="cnt"><option>alle (64)</option><option>20</option><option>40</option></select>
+        <label style="display:flex;gap:8px;align-items:center"><input type="checkbox" id="shuf" checked> Zufällige Reihenfolge</label>
+      </div>
+      <hr class="divider">
+      <button class="btn primary">Start</button>
+    </div>
+  </section>
+
+  <!-- LERNEN MC -->
+  <section data-screen="mc" hidden>
+    <header class="app"><span class="brand">Ergo Klausurtrainer</span><span class="meta">Lernmodus · bisher 74 % <button class="btn ghost" style="padding:4px 12px;font-size:14px">Beenden</button></span></header>
+    <div class="col">
+      <div class="qhead"><span>Frage 12 von 40 · Nr. 1 · x aus 5</span><span class="chip none">ohne Kategorie</span></div>
+      <div class="bar"><span style="width:30%"></span></div>
+      <h2>Welche der folgenden Aussagen beschreibt eine Kernkomponente exekutiver Funktionen?</h2>
+      <div class="opts">
+        <label class="opt dim"><span class="L">A</span><input type="checkbox" disabled><span>Langzeitgedächtnis speichern</span><span class="tag"></span></label>
+        <label class="opt ok"><span class="L">B</span><input type="checkbox" checked disabled><span>Impulskontrolle und Frustrationstoleranz</span><span class="tag">✓ richtig, +1</span></label>
+        <label class="opt bad"><span class="L">C</span><input type="checkbox" checked disabled><span>Visuelle Wahrnehmung von Farben</span><span class="tag">✗ falsch, −1</span></label>
+        <label class="opt miss"><span class="L">D</span><input type="checkbox" disabled><span>Planung und vorausschauendes Handeln</span><span class="tag">vergessen</span></label>
+        <label class="opt dim"><span class="L">E</span><input type="checkbox" disabled><span>Muskelkraft erhöhen</span><span class="tag"></span></label>
+      </div>
+      <div class="panel score"><b>0 / 2</b><span>Punkte für diese Frage</span><small>+1 richtig, −1 falsch, nie unter 0. Richtig wäre: B, D</small></div>
+      <div class="panel catpanel">
+        <h3>Kategorien festlegen</h3>
+        <p style="margin:0 0 12px;font-size:15px">Diese Frage hat noch kein Thema. Klicke alle passenden an (mehrere möglich) oder lege ein neues an.</p>
+        <div class="chips" role="group" aria-label="Kategorien">
+          <button aria-pressed="true">Exekutive Funktionen</button><button aria-pressed="true">Neurologie</button><button aria-pressed="false">Geriatrie / Demenz</button><button aria-pressed="false">Pädiatrie</button><button aria-pressed="false">Neuropsychologie</button>
+        </div>
+        <div class="catrow" style="margin-top:12px">
+          <input type="text" id="newcat" placeholder="Neue Kategorie, z. B. Psychiatrie" aria-label="Neue Kategorie">
+          <button class="btn">Anlegen und zuordnen</button>
+        </div>
+        <p style="margin:10px 0 0;font-size:14px;color:var(--muted)">Freiwillig. „Nächste Frage“ geht auch ohne Auswahl.</p>
+      </div>
+      <div class="panel"><h3>Erklärung</h3><p class="empty" style="margin:0">Für diese Frage ist noch keine Erklärung hinterlegt.</p></div>
+      <div class="row" style="justify-content:space-between;margin-top:22px"><button class="btn ghost">Überspringen</button><button class="btn primary">Nächste Frage</button></div>
+    </div>
+  </section>
+
+  <!-- LERNEN FREITEXT -->
+  <section data-screen="ft" hidden>
+    <header class="app"><span class="brand">Ergo Klausurtrainer</span><span class="meta">Lernmodus · bisher 74 % <button class="btn ghost" style="padding:4px 12px;font-size:14px">Beenden</button></span></header>
+    <div class="col">
+      <div class="qhead"><span>Frage 13 von 40 · Nr. 99 · schriftlich, Zuordnung</span><span class="qcats"><span class="chip">Neurologie</span><span class="chip">Neuropsychologie</span><button class="linkbtn">Kategorien bearbeiten</button></span></div>
+      <div class="bar"><span style="width:32.5%"></span></div>
+      <h2>Ordnen Sie die Beobachtungen beim „Öffnen einer Flasche“ durch Ankreuzen der räumlichen Störung oder der Apraxie zu!</h2>
+      <div class="mat"><table>
+        <thead><tr><th>Beobachtungen</th><th class="c">Räumliche Störung</th><th class="c">Apraxie</th></tr></thead>
+        <tbody>
+          <tr><td>Macht Eingießbewegung, ohne den Deckel vorab zu öffnen</td><td class="c"><input type="checkbox" aria-label="Räumliche Störung"></td><td class="c"><input type="checkbox" checked aria-label="Apraxie"></td></tr>
+          <tr><td>Greift beim Flasche greifen daneben</td><td class="c"><input type="checkbox" checked aria-label="Räumliche Störung"></td><td class="c"><input type="checkbox" aria-label="Apraxie"></td></tr>
+          <tr><td>Dreht den Deckel in falsche Richtung</td><td class="c"><input type="checkbox" checked aria-label="Räumliche Störung"></td><td class="c"><input type="checkbox" aria-label="Apraxie"></td></tr>
+          <tr><td>Gießt daneben</td><td class="c"><input type="checkbox" checked aria-label="Räumliche Störung"></td><td class="c"><input type="checkbox" aria-label="Apraxie"></td></tr>
+          <tr><td>Perseverationen sind zu beobachten</td><td class="c"><input type="checkbox" aria-label="Räumliche Störung"></td><td class="c"><input type="checkbox" checked aria-label="Apraxie"></td></tr>
+          <tr><td>Beim automatischen Öffnen gelingt das Eingießen fehlerlos</td><td class="c"><input type="checkbox" aria-label="Räumliche Störung"></td><td class="c"><input type="checkbox" checked aria-label="Apraxie"></td></tr>
+        </tbody></table></div>
+      <p style="margin:-6px 0 22px;font-size:14px;color:var(--muted)">Tabellen ohne „Ankreuzen“ (z. B. Nr. 136 Gleitmobilisation) bekommen Eingabefelder in den Zellen. Fragen ohne Tabelle haben ein großes Eingabefeld.</p>
+
+      <div class="warn"><b>Lösung unsicher.</b> Die Musterlösung ist als „wahrscheinlich“ gekennzeichnet. Im Zweifel im Unterricht nachfragen.</div>
+      <div class="cmp" style="margin-bottom:16px">
+        <div class="mine"><h3>Deine Antwort</h3>Apraxie: 1, 5, 6<br>Räumliche Störung: 2, 3, 4</div>
+        <div class="model"><h3>Musterantwort · abhaken, was du hattest</h3>
+          <ul class="check">
+            <li><label><input type="checkbox" checked><span>1. Eingießen ohne Öffnen – Apraxie</span></label></li>
+            <li><label><input type="checkbox" checked><span>2. Greift daneben – räumliche Störung</span></label></li>
+            <li><label><input type="checkbox"><span>3. Deckel falsch herum – Apraxie</span></label></li>
+            <li><label><input type="checkbox" checked><span>4. Gießt daneben – räumliche Störung</span></label></li>
+            <li><label><input type="checkbox" checked><span>5. Perseverationen – eher Apraxie</span></label></li>
+            <li><label><input type="checkbox" checked><span>6. Automatisch gelingt es – Hinweis auf Apraxie</span></label></li>
+          </ul>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Wie gut war deine Antwort insgesamt?</h3>
+        <div class="rate" role="group" aria-label="Selbsteinstufung"><button class="r1" aria-pressed="false">richtig (1)</button><button class="r2" aria-pressed="true">teilweise (0,5)</button><button class="r3" aria-pressed="false">falsch (0)</button></div>
+        <p style="margin:10px 0 0;font-size:14px;color:var(--muted)">Die Checkliste ist nur eine Hilfe. Gewertet wird deine Einstufung, weil Fragen wie „Nennen Sie vier …“ mehr Lösungspunkte zeigen als verlangt.</p>
+      </div>
+      <div class="row" style="justify-content:space-between;margin-top:22px"><button class="btn ghost">Überspringen</button><button class="btn primary">Nächste Frage</button></div>
+    </div>
+  </section>
+
+  <!-- KLAUSUR -->
+  <section data-screen="exam" hidden>
+    <header class="app"><span class="brand">Ergo Klausurtrainer · Klausur</span><span class="meta"><span>verbleibend</span><span class="timer">142:17</span><button class="btn" style="padding:6px 14px;font-size:14px">Abgeben</button></span></header>
+    <div class="exam">
+      <div>
+        <div class="qhead"><span>Frage 7 von 60 · x aus 5</span><button class="btn ghost" style="padding:4px 12px;font-size:14px" aria-pressed="true">⚑ Markiert als unsicher</button></div>
+        <h2>Welche Maßnahmen gehören zur Sturzprophylaxe im häuslichen Umfeld?</h2>
+        <div class="opts" id="examopts">
+          <label class="opt"><span class="L">A</span><input type="checkbox" id="e1" checked><span>Entfernen von Stolperfallen wie losen Teppichen</span><span class="tag"></span></label>
+          <label class="opt"><span class="L">B</span><input type="checkbox" id="e2"><span>Dauerhafte Bettruhe zur Vermeidung von Belastung</span><span class="tag"></span></label>
+          <label class="opt"><span class="L">C</span><input type="checkbox" id="e3" checked><span>Ausreichende Beleuchtung, auch nachts</span><span class="tag"></span></label>
+          <label class="opt"><span class="L">D</span><input type="checkbox" id="e4"><span>Anbringen von Haltegriffen im Bad</span><span class="tag"></span></label>
+          <label class="opt"><span class="L">E</span><input type="checkbox" id="e5"><span>Gleichgewichts- und Krafttraining</span><span class="tag"></span></label>
+        </div>
+        <div class="row" style="justify-content:space-between"><button class="btn">← Zurück</button><button class="btn primary">Weiter →</button></div>
+      </div>
+      <aside>
+        <h3>Fragen</h3>
+        <div class="grid" id="grid"></div>
+        <div class="legend">
+          <span><i style="background:var(--accent-soft);border-color:transparent"></i>beantwortet</span>
+          <span><i style="background:var(--surface)"></i>offen</span>
+          <span><i style="background:var(--miss);border-color:var(--miss);border-radius:50%"></i>markiert (unsicher)</span>
+        </div>
+        <p style="font-size:14px;color:var(--muted)">23 beantwortet · 37 offen · 3 markiert</p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- AUSWERTUNG -->
+  <section data-screen="res" hidden>
+    <header class="app"><span class="brand">Ergo Klausurtrainer · Auswertung</span><span class="meta">Klausur vom 23.11. · 162 von 180 Min.</span></header>
+    <div class="col">
+      <div class="panel" style="background:var(--miss-soft);border-color:transparent">
+        <b>Schritt 1: 4 schriftliche Fragen einstufen</b>
+        <p style="margin:4px 0 10px;font-size:15px">Im Klausurmodus gab es keine Auflösung. Vergleiche jetzt deine Antworten mit der Musterantwort (gleiche Ansicht wie im Lernmodus). Danach steht der endgültige Prozentwert.</p>
+        <button class="btn">Jetzt einstufen (2 von 4 erledigt)</button>
+      </div>
+      <div class="res">
+        <div class="big">68 %</div>
+        <div class="kv">
+          <span>x aus 5</span><span>94 / 136 Punkte</span>
+          <span>Schriftlich</span><span>5,5 / 10 Teilfragen (vorläufig)</span>
+          <span>Fragen gesamt</span><span>60 · davon 3 markiert</span>
+        </div>
+      </div>
+      <h3>Nicht voll richtig (17)</h3>
+      <div class="tbl"><table>
+        <thead><tr><th>Nr.</th><th>Frage</th><th>Punkte</th><th></th></tr></thead>
+        <caption style="caption-side:bottom;text-align:left;font-size:14px;color:var(--muted);padding-top:8px">„Ansehen“ öffnet die Auflösung samt Kategorie-Kasten. Im Klausurmodus werden Kategorien also erst hier vergeben.</caption>
+        <tbody>
+          <tr><td class="num">1</td><td>Welche der folgenden Aussagen beschreibt eine Kernkomponente exekutiver Funktionen? <span class="badge miss">⚑ markiert</span></td><td class="num">0 / 2</td><td><button class="btn ghost" style="padding:2px 10px;font-size:14px">Ansehen</button></td></tr>
+          <tr><td class="num">44</td><td>Welche Maßnahmen gehören zur Sturzprophylaxe im häuslichen Umfeld?</td><td class="num">2 / 4</td><td><button class="btn ghost" style="padding:2px 10px;font-size:14px">Ansehen</button></td></tr>
+          <tr><td class="num">115</td><td>Beantworten Sie folgende Fragen zum Thema der „Basalen Stimulation“!</td><td class="num">1,5 / 3</td><td><button class="btn ghost" style="padding:2px 10px;font-size:14px">Ansehen</button></td></tr>
+          <tr><td class="num">207</td><td>Welche Aussagen zur Spiegeltherapie nach Schlaganfall treffen zu? <span class="badge bad">nicht beantwortet</span></td><td class="num">0 / 3</td><td><button class="btn ghost" style="padding:2px 10px;font-size:14px">Ansehen</button></td></tr>
+        </tbody>
+      </table></div>
+      <hr class="divider">
+      <div class="row"><button class="btn primary">Falsche Fragen im Lernmodus üben</button><button class="btn ghost">Zur Startseite</button></div>
+    </div>
+  </section>
+</div>
+
+<script>
+const tabs=document.querySelectorAll('.mocknav button');
+tabs.forEach(b=>b.addEventListener('click',()=>{
+  tabs.forEach(t=>t.setAttribute('aria-selected',t===b));
+  document.querySelectorAll('[data-screen]').forEach(s=>s.hidden=s.dataset.screen!==b.dataset.s);
+  window.scrollTo(0,0);
+}));
+document.querySelectorAll('.rate').forEach(g=>g.addEventListener('click',e=>{
+  if(e.target.tagName!=='BUTTON')return;
+  g.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===e.target));
+}));
+document.querySelectorAll('.chips button').forEach(c=>c.addEventListener('click',()=>c.setAttribute('aria-pressed',c.getAttribute('aria-pressed')!=='true')));
+document.querySelectorAll('.mode').forEach(m=>m.addEventListener('click',()=>{
+  document.querySelectorAll('.mode').forEach(x=>x.setAttribute('aria-checked',x===m));
+}));
+const g=document.getElementById('grid'),flags=[3,7,19],done=new Set([1,2,3,4,5,6,8,9,10,11,12,14,15,16,17,18,20,21,22,24,25,27,30]);
+for(let i=1;i<=60;i++){const b=document.createElement('button');b.textContent=i;
+  if(done.has(i))b.className='done';if(i===7)b.classList.add('cur','done');if(flags.includes(i))b.classList.add('flag');
+  b.setAttribute('aria-label','Frage '+i);g.appendChild(b);}
+</script>

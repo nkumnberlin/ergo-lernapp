@@ -1,0 +1,3691 @@
+{
+  "fragen": [
+    {
+      "nummer": 1,
+      "frage": "Welche der folgenden Aussagen beschreibt eine Kernkomponente exekutiver Funktionen?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Langzeitgedächtnis speichern"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Impulskontrolle und Frustrationstoleranz"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Visuelle Wahrnehmung von Farben"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Planung und vorausschauendes Handeln"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Muskelkraft erhöhen"
+        }
+      ],
+      "loesung": "B, D"
+    },
+    {
+      "nummer": 2,
+      "frage": "Was gehört zum Arbeitsgedächtnis im Kindesalter?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Auditiv‑artikulärer Speicher"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Visueller Speicher"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Langzeitgedächtnis für Fakten"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Kurzzeitige Speicherung von sieben ± 2 Elementen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Motorisches Gedächtnis für Bewegungsabläufe"
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 3,
+      "frage": "Welche Effekte hat eine gut funktionierende Inhibition?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Unterdrückung unangemessener Impulse"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Erhöhte Geschwindigkeit beim Kopfrechnen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Fähigkeit, automatisierte Handlungen zu blockieren"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Verbesserte Fähigkeit, Störreize auszublenden"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Verstärkte emotionale Reaktivität"
+        }
+      ],
+      "loesung": "A, C, D"
+    },
+    {
+      "nummer": 4,
+      "frage": "Kognitive Flexibilität unterstützt insbesondere welche der folgenden Fähigkeiten?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Perspektivwechsel in sozialen Situationen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Schnelles Lesen von Texten"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Kreatives Problemlösen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Langfristige Gedächtniskonsolidierung"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Präzise motorische Koordination"
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 5,
+      "frage": "Welche Aussagen treffen auf die Entwicklung exekutiver Funktionen zu?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Sie entwickeln sich schneller als die sensorische Wahrnehmung."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die Entwicklung verläuft in langsamen, aber stetigen „Schüben“."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Bis zum 16. Lebensjahr erreichen sie die Kapazität eines Erwachsenen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Sie sind bei allen Kindern bis zum Alter von 5 Jahren vollständig ausgebildet."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Ihre Weiterentwicklung wird durch schulische Anforderungen und soziale Interaktionen gefördert"
+        }
+      ],
+      "loesung": "B, E"
+    },
+    {
+      "nummer": 6,
+      "frage": "Wie beeinflussen exekutive Funktionen das soziale Verhalten von Kindern?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Sie ermöglichen das Teilen von Spielzeug."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Sie fördern das Erkennen und Ausdrücken eigener Gefühle."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Sie reduzieren die Fähigkeit, Freundschaften zu schließen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Sie unterstützen Perspektivübernahme und Empathie."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Sie erhöhen die körperliche Ausdauer beim Sport."
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 7,
+      "frage": "Welche Aussagen zum Thema - Somatoforme Störungen - sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Psychosomatik bedeutet, dass psychische und körperliche Vorgänge zusammenhängen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Dissoziative Bewegungsstörungen haben immer eine organische Ursache."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Eine hypochondrische Störung bedeutet, dass man immer fühlt, gesund zu sein."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Dissoziative Funktionsstörungen sind plötzlich auftretende körperliche Probleme."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Eine somatoforme autonome Funktionsstörung betrifft oft Organsysteme wie Herz-Kreislauf."
+        }
+      ],
+      "loesung": "A, D, E"
+    },
+    {
+      "nummer": 8,
+      "frage": "Welche Spielformen entstehen typischerweise nach dem Alter von 3‑4 Jahren?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Funktionsspiel"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Konstruktionsspiel"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Symbolspiel"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Rollenspiel"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Bewegungsspiel"
+        }
+      ],
+      "loesung": "D, E"
+    },
+    {
+      "nummer": 9,
+      "frage": "Welche Bedingungen können das Spiel eines Kindes behindern?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Zu wenig freie Spielzeit."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Übermäßige Aufsicht und Eingreifen der Erwachsenen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Bereitstellung von vielfältigen, offenen Materialien."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ständige Unterbrechungen durch Lärm."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Klare, kindgerechte Spielregeln."
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 10,
+      "frage": "Welche Materialien eignen sich besonders für das Konstruktionsspiel, weil sie leicht zweckentfremdet werden können?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Bauklötze aus Holz"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Plastiktassen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Wasser‑ und Sandbehälter"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Magnetische Bausteine"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Digitale Tablet‑Spiele"
+        }
+      ],
+      "loesung": "A, B, C, D"
+    },
+    {
+      "nummer": 11,
+      "frage": "Welche Fähigkeit ist NICHT Teil der Graphomotorik?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Feinmotorik"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Visuomotorische Koordination"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Kraftdosierung"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Auditive Wahrnehmung"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Hand-Auge-Koordination"
+        }
+      ],
+      "loesung": "D"
+    },
+    {
+      "nummer": 12,
+      "frage": "Welche Auswirkung hat die Digitalisierung auf die Graphomotorik?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Erhöhte haptische Erfahrungen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Mehr Feinmotorische Herausforderungen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Weniger Stift- und Papierübungen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Keine Ablenkung durch Medien"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Zunahme motorischer Defizite"
+        }
+      ],
+      "loesung": "C"
+    },
+    {
+      "nummer": 13,
+      "frage": "Welche der folgenden Spielformen gehören zu den Grundformen des kindlichen Spiels?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Funktionsspiel"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Konstruktionsspiel"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Symbolspiel"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Rollenspiel"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Regelspiel"
+        }
+      ],
+      "loesung": "A, B, C, D, E"
+    },
+    {
+      "nummer": 14,
+      "frage": "Welche der folgenden Aussagen beschreibt die Funktion des Funktionsspiels?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Es dient der Erkundung sensorischer Wahrnehmungen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Es fördert die Entwicklung von Regelverständnis."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Es unterstützt das Erkennen von Ursache‑Wirkungs‑Zusammenhängen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Es ermöglicht das Ausprobieren von Handlungsabläufen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Es stärkt die Fähigkeit zur symbolischen Darstellung."
+        }
+      ],
+      "loesung": "A, C, D"
+    },
+    {
+      "nummer": 15,
+      "frage": "Was sind typische Merkmale der Borderline-Persönlichkeitsstörung?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Stabile zwischenmenschliche Beziehungen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Impulsivität in mehreren Bereichen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Übermäßige Selbstdisziplin"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Chronische Gefühle von Leere"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Hohe emotionale Stabilität"
+        }
+      ],
+      "loesung": "B, D"
+    },
+    {
+      "nummer": 16,
+      "frage": "Welche Aussagen zum Thema - Somatoforme Störungen - sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Symptome bei somatoformen Störungen sind absichtlich vorgetäuscht."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Dissoziative Störungen sind oft mit frühkindlichen Traumata verbunden."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Somatoforme Störungen haben immer eine klare organische Ursache."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Somatoforme Störungen können durch emotionale Konflikte verursacht werden."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Psychosomatik im Alltag zeigt sich häufig durch Redewendungen wie 'Einen Kloß im Hals haben'."
+        }
+      ],
+      "loesung": "B, D, E"
+    },
+    {
+      "nummer": 17,
+      "frage": "Welche Risikofaktoren können die Entwicklung einer posttraumatischen Belastungsstörung (PTBS) begünstigen?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Trauma in der Kindheit"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Hohe soziale Unterstützung"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Stressige Lebensereignisse"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Genetische Prädisposition"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Regelmäßige körperliche Aktivität"
+        }
+      ],
+      "loesung": "A, C, D"
+    },
+    {
+      "nummer": 18,
+      "frage": "Welche Aussagen zum Thema - Persönlichkeitsstörungen - sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine Persönlichkeitsstörung ist durch ein flexibles Muster von Gedanken und Verhalten gekennzeichnet."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Menschen mit Borderline-Persönlichkeitsstörung haben Probleme mit der Emotionsregulation."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Eine hohe Vulnerabilität und geringe Stresstoleranz führen potentiell zu psychischen Störungen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Bei der Borderline-Persönlichkeitsstörung ist das Risiko für Substanzabhängigkeit verdoppelt."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Klassifikationssysteme DSM-V und ICD-11 sind identisch."
+        }
+      ],
+      "loesung": "B, C"
+    },
+    {
+      "nummer": 19,
+      "frage": "Welche der folgenden Griffarten sind für die Entwicklung der Grafomotorik wichtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Scherengriff"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Pinzettengriff"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Zangengriff"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Faustgriff"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Handstandgriff"
+        }
+      ],
+      "loesung": "A, B, C, D"
+    },
+    {
+      "nummer": 20,
+      "frage": "Welche Aussagen zum Thema - Zwangs-,Angst-Panikstörungen - sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine Panikattacke hat eine durchschnittliche Dauer von mehreren Stunden."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Agoraphobie kann mit Panikstörungen einhergehen, muss aber nicht zwingend mit dieser verbunden sein."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Das Teufelskreis-Modell beschreibt die Aufrechterhaltung von Angststörungen durch kognitive Verzerrungen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Zwangsstörungen sind laut ICD-10 durch das Fehlen von Zwangsgedanken und -handlungen charakterisiert."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Bei der generalisierten Angststörung ist Angst auf bestimmte Umgebungsbedingungen beschränkt."
+        }
+      ],
+      "loesung": "B, C"
+    },
+    {
+      "nummer": 21,
+      "frage": "Welche Symptome sind charakteristisch für eine manische Episode nach ICD-11?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Erhöhtes Mitteilungsbedürfnis"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Erhöhte Aktivität oder erhöhte subjektiv erlebte Energie"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Depressive Stimmung"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Vermindertes Bedürfnis zu schlafen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Interessenverlust"
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 22,
+      "frage": "Welche Aussagen zum Thema - Zwangs-,Angst-Panikstörungen - sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Personen mit Zwangsstörungen erkennen ihre Gedanken und Handlungen als übertrieben oder unsinnig."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Menschen mit Agoraphobie haben Angst vor mindestens zwei spezifischen Situationen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Eine spezifische Phobie ist das Ergebnis einer generalisierten Angst."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Häufig treten Panikattacken bei Personen ohne erkennbare externe Auslöser auf."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Nach einer Panikattacke erleben die betroffenen Personen oft Angst vor Kontrollverlust oder 'Verrücktheit'."
+        }
+      ],
+      "loesung": "B, D, E"
+    },
+    {
+      "nummer": 23,
+      "frage": "Welche Faktoren können laut dem Vulnerabilitäts-Stress-Modell zur Auslösung von Depressionen beitragen?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Genetischer Hintergrund"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Soziale Unterstützung"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Stressige Lebensereignisse"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Körperliche Krankheiten"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Traumatische Erlebnisse"
+        }
+      ],
+      "loesung": "A, C, D, E"
+    },
+    {
+      "nummer": 24,
+      "frage": "Welche der folgenden Symptome gehören zu den vegetativen Kriterien einer Panikattacke nach ICD‑10?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Palpitationen, Herzklopfen oder erhöhte Herzfrequenz"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Derealisations‑ oder Depersonalisationsempfindungen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Atembeschwerden"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Hitzewallungen oder Kälteschauer"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Gefühl, die Kontrolle zu verlieren"
+        }
+      ],
+      "loesung": "A, D"
+    },
+    {
+      "nummer": 25,
+      "frage": "Welche Aussagen zum Thema - Zwang - sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "„Ich könnte meine Familie mit einer ansteckenden Krankheit infizieren.“ – häufiges Händewaschen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "„Ich muss jedes Wort in meinem Kopf rückwärts buchstabieren.“ – Mehrfach‑Kontrolle von Steckdosen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "„Ich könnte im Aufzug stecken bleiben.“ – Vermeidung von Aufzügen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "„Ich muss die Bücher im Regal exakt nach Größe sortieren.“ – ständiges Umordnen der Bücher"
+        },
+        {
+          "buchstabe": "E",
+          "text": "„Ich könnte beim Reden plötzlich das Wort „Maus“ sagen.“ – lautes Wiederholen des Wortes"
+        }
+      ],
+      "loesung": "A, D"
+    },
+    {
+      "nummer": 26,
+      "frage": "Was beschreibt die intrinsische Motivation nach Deci und Ryan am besten?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Motivation, die aus externen Belohnungen resultiert."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Motivation, die aus dem eigenen Interesse und der Freude an der Tätigkeit selbst entsteht."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Motivation, die durch soziale Vergleiche beeinflusst wird."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Motivation, die auf der Angst vor negativen Konsequenzen basiert."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Motivation, die durch Belohnungen und Bestrafungen gesteuert wird."
+        }
+      ],
+      "loesung": "B"
+    },
+    {
+      "nummer": 27,
+      "frage": "Welche der folgenden Aussagen trifft auf die bipolare Störung zu?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Durchschnittliche Ersterkrankung mit 18 Jahren"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Mehr depressive Phasen als manische Phasen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Keine Krankheitseinsicht"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Nur depressive Episoden"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Episodenhäufigkeit: 7-8 in 30 Jahren"
+        }
+      ],
+      "loesung": "B"
+    },
+    {
+      "nummer": 28,
+      "frage": "Welche Aussagen zur Situation (siehe Fall) sind zutreffend und richtig? Im Unterricht sagt die Lehrerin zu Lara: „Dein Heft ist noch nicht abgegeben.“ Lara wird rot, senkt den Blick und antwortet gereizt: „Ja, ich weiß, ich bin halt langsam!“",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Aussage der Lehrerin enthält keine Selbstoffenbarung."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Laras Reaktion deutet darauf hin, dass sie die Aussage stark auf der Beziehungsebene gehört hat."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Aussage kann als Appell verstanden werden („Gib dein Heft jetzt ab“)."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Kommunikationsquadrat beschreibt nur verbale Inhalte, keine Beziehungsebene."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Lehrerin sendet auf der Sachebene die Information, dass das Heft fehlt."
+        }
+      ],
+      "loesung": "B, C, E"
+    },
+    {
+      "nummer": 29,
+      "frage": "Welche der folgenden Symptome gehören zu den emotionalen Symptomen einer Depression?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Verlust des Selbstvertrauens"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Schlafstörungen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Interessenverlust"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Vermindertes Denk- und Konzentrationsvermögen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Antriebsmangel"
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 30,
+      "frage": "Welche Aussagen treffen auf die beschriebene Haltung (klientenzentrierte Gesprächsführung nach C. Rogers) der Therapeut:in zu? Sophie (16) kommt in die Therapie, weil sie sich in der Schule ständig unter Druck gesetzt fühlt und Angst hat zu versagen. Die Therapeut:in hört aufmerksam zu, unterbricht nicht, spiegelt Sophies Gefühle („Das klingt, als wärst du oft sehr verunsichert“) und vermeidet es, sofort Ratschläge zu geben. Sophie wirkt nach dem Gespräch erleichtert und sagt, sie fühle sich „zum ersten Mal richtig verstanden“.",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Therapeut:in vermeidet Beziehungsgestaltung, um professionell distanziert zu bleiben"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die Therapeut:in zeigt Empathie, indem sie Sophies Gefühle spiegelt."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Therapeut:in verhält sich kongruent, indem sie authentisch und präsent ist."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Der Ansatz nach Rogers ist direktiv und gibt klare Handlungsanweisungen vor."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Wertschätzende, akzeptierende Haltung fördert Sophies Selbstexploration."
+        }
+      ],
+      "loesung": "B, E"
+    },
+    {
+      "nummer": 31,
+      "frage": "Was sind die Hauptzustände des Ichs in der Transaktionsanalyse?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eltern-Ich"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Kind-Ich"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Lehrer-Ich"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Erwachsenen-Ich"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Freund-Ich"
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 32,
+      "frage": "Welche der folgenden Aussagen beschreibt das Eltern-Ich?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Es enthält die Werte und Normen, die wir von unseren Eltern und anderen Autoritätspersonen übernommen haben."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Es ist der Teil, der rational denkt und Entscheidungen trifft."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Es spiegelt die emotionalen und kreativen Aspekte unserer Persönlichkeit wider"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Es ist der Teil, der die Bedürfnisse und Wünsche des Individuums ausdrückt."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Es ist der Teil, der in der Kindheit geprägt wurde und oft impulsiv reagiert."
+        }
+      ],
+      "loesung": "A"
+    },
+    {
+      "nummer": 33,
+      "frage": "Welche der folgenden Beispiele veranschaulichen eine Transaktion zwischen dem Eltern-Ich und dem Kindheits-Ich?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine Person sagt sich: „Du musst immer stark sein und darfst keine Schwäche zeigen.“"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Ein Erwachsener erinnert sich an die Freude, die er als Kind beim Spielen im Freien hatte, und erlaubt sich, einen entspannten Tag zu genießen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Ein Erwachsener fragt einen Freund: „Möchtest du heute Abend ins Kino gehen?“"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ein Lehrer sagt zu einem Schüler: „Wenn du deine Hausaufgaben nicht machst, wirst du nicht bestehen.“"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Ein Chef kritisiert einen Mitarbeiter scharf für einen Fehler, den er gemacht hat."
+        }
+      ],
+      "loesung": "A, D, E"
+    },
+    {
+      "nummer": 34,
+      "frage": "Welche Aussagen treffen auf die beschriebene Situation (siehe Fall) zu? Tim (7) macht häufig seine Hausaufgaben nicht. Sein Vater reagiert streng: Er setzt feste Regeln, kontrolliert jede Aufgabe und verhängt Strafen bei Fehlern. Die Mutter hingegen ist sehr nachgiebig, übernimmt Tims Aufgaben oft selbst und vermeidet Konflikte, damit „kein Stress entsteht“.",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Das Verhalten des Vaters entspricht überwiegend einem autoritären Erziehungsstil."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die beschriebenen Stile fördern automatisch die Selbstständigkeit des Kindes."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Beide Elternteile zeigen konsistent einen autoritativen Erziehungsstil."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Verhalten der Mutter entspricht überwiegend einem permissiven (nachgiebigen) Erziehungsstil."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die unterschiedlichen Stile können für Tim widersprüchliche Signale bedeuten."
+        }
+      ],
+      "loesung": "A, D, E"
+    },
+    {
+      "nummer": 35,
+      "frage": "Welche Antworten zum Thema Erziehung sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Sozialisation beginnt direkt nach der Geburt und endet nie."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Autoritäre Erziehungsstile sind bekannt für ihre hohe emotionale Wärme."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Demokratische Erziehungsstile fördern die Mitbestimmung der Kinder."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Laissez-faire Erziehungsstil bedeutet hohe Herausforderung und hohe Zuwendung."
+        },
+        {
+          "buchstabe": "E",
+          "text": "In der autoritativen Erziehung gibt es klare Regeln und viel emotionale Unterstützung."
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 36,
+      "frage": "Welche Antworten in Bezug auf die Erziehung/Erziehungsstile sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Familiäre Erziehung gilt als tertiäre Sozialisationsinstanz."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Indifferente Erziehungsstile bieten Kindern wenig Orientierung und Grenzen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Primäre Sozialisationsprozesse geschehen hauptsächlich in der Schule."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Eltern mit autoritären Erziehungsstil arbeiten oft mit Bestrafungen bei Fehlverhalten."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Erziehung zielt darauf ab, unerwünschtes Verhalten zu begrenzen und abzubauen."
+        }
+      ],
+      "loesung": "B, D, E"
+    },
+    {
+      "nummer": 37,
+      "frage": "Welcher Erziehungsstil wird häufig mit geringer Anspruchs‑Setzung und geringer Zuwendung beschrieben?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Autoritativ"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Permissiv"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Autoritär"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Laissez‑fair (indifferent)"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Demokratisch"
+        }
+      ],
+      "loesung": "D"
+    },
+    {
+      "nummer": 38,
+      "frage": "Kreuzen Sie die korrekten Aussagen an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Leistungsmotivation ist lediglich abhängig von der Motivation durch Erwartung und Anreiz/Wert."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Extrinsische Motivation ist wirkungsvoller als intrinsische Motivation."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Attribution wird in der Psychologie als Zuschreiben von Ursachen für Handlungen und Verhaltensweisen verstanden."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Bedürfnis nach Autonomie wird besonders in der Bedürfnispyramide nach A. Maslow beschrieben."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Eine maximale Intrinsische Motivation ist besonders bei Passung zwischen Anspruch- und Fähigkeitsniveau einer Person zu erwarten."
+        }
+      ],
+      "loesung": "C, E"
+    },
+    {
+      "nummer": 39,
+      "frage": "Was beschreibt ein „Growth Mindset“?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Überzeugung, dass Fähigkeiten und Intelligenz durch Anstrengung und Lernen entwickelt werden können."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die Vorstellung, dass Fähigkeiten festgelegt und unveränderlich sind."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Bereitschaft, aus Fehlern zu lernen und sich zu verbessern."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Die Überzeugung, dass Erfolg das Ergebnis von Talent ist."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Fähigkeit, Herausforderungen als Chancen zu sehen."
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 40,
+      "frage": "Kreuzen Sie die richtigen Antworten an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Das Johari Fenster wurde von deutschen Wissenschaftlern entwickelt."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Im Johari-Fenster gibt es einen Bereich, den nur die Umwelt kennt und die Person nicht."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Eine Person kann alle ihre Eigenschaften selbst am besten einschätzen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Der 'blinde Fleck' im Johari-Fenster zeigt Eigenschaften, die wir nicht selbst wissen, aber andere sehen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Das Johari-Fenster zeigt, dass alle Menschen gleich sind."
+        }
+      ],
+      "loesung": "B, D"
+    },
+    {
+      "nummer": 41,
+      "frage": "Welche der folgenden Aussagen sind Merkmale eines „Fixed Mindset“?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Angst vor Misserfolg"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Bereitschaft, Risiken einzugehen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Glaube, dass Anstrengung notwendig ist, um zu wachsen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Vermeidung von Herausforderungen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Freude am Lernen"
+        }
+      ],
+      "loesung": "A, D"
+    },
+    {
+      "nummer": 42,
+      "frage": "Welche Konsequenzen können bei Kindern, die überwiegend im autoritativen Stil erzogen werden, beobachtet werden?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Höhere schulische Leistungen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Geringes Selbstwertgefühl"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Ausgeprägte Sozialkompetenz"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Häufige Verhaltensauffälligkeiten"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Gute Selbstregulation"
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 43,
+      "frage": "Welche Aussagen zum RAVEK (Ravensburger Entwicklungs-Verfahren) sind korrekt?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "RAVEK erfasst graphomotorische und feinmotorische Teilfähigkeiten bei Kindern."
+        },
+        {
+          "buchstabe": "B",
+          "text": "RAVEK liefert ausschließlich normative IQ-Werte ohne entwicklungsbezogenen Bezug."
+        },
+        {
+          "buchstabe": "C",
+          "text": "RAVEK ist ein verhaltensökonomisches Therapieverfahren zur Stressreduktion."
+        },
+        {
+          "buchstabe": "D",
+          "text": "RAVEK kann zur Diagnostik von Entwicklungsauffälligkeiten im Schriftspracherwerb genutzt werden."
+        },
+        {
+          "buchstabe": "E",
+          "text": "RAVEK betrachtet motorische, visuelle und kognitive Aspekte der Schreib- und Zeichenentwicklung."
+        }
+      ],
+      "loesung": "A, E"
+    },
+    {
+      "nummer": 44,
+      "frage": "Welche Fähigkeiten gelten als wichtige Voraussetzungen für den Schreiberwerb?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Rumpfstabilität"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Augen-Hand-Koordination"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Dosierte Anpassung des Krafteinsatzes"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Maximale Muskelkraft"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Auswendiglernen von Buchstabenformen"
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 45,
+      "frage": "Welche Aussagen zu den frühen Griffarten sind korrekt?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Der Scherengriff ermöglicht das Einklemmen von Gegenständen zwischen Daumen und Zeigefinger."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Der Pinzettengriff dient dem gezielten Aufheben sehr kleiner Gegenstände."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Diese Griffarten entstehen erst im Vorschulalter."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Sie haben keine Bedeutung für die spätere Stifthaltung."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Beim Zangengriff krümmen sich Daumen und Zeigefinger."
+        }
+      ],
+      "loesung": "A, B, E"
+    },
+    {
+      "nummer": 46,
+      "frage": "Welche der folgenden Aussagen treffen auf Grundannahmen, Ziele und Vorgehensweisen der klientenzentrierten Gesprächsführung nach Carl Rogers zu?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Der Therapeut verbalisiert die emotionalen Erlebnisinhalte des Klienten."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Der Therapeut vermittelt dem Klienten emotionale Wertschätzung."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Der Klient wird in seinem Bemühen nach Selbstverwirklichung und Selbstaktualisierung unterstützt."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Die Dynamik der Entwicklung des Selbst wird durch biologisch determinierte Vorgänge gesteuert."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Psychische Störungen sind die Folge einer Diskrepanz zwischen dem Bedürfnis nach uneingeschränkter Wertschätzung und negativen Erfahrungen der Ablehnung von Teilen des Selbst."
+        }
+      ],
+      "loesung": "A, B, C, E"
+    },
+    {
+      "nummer": 47,
+      "frage": "Kreuzen Sie die korrekten Aussagen an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Beim aktiven Zuhören muss man alles Gehörte wiedergeben."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Beim aktiven Zuhören müssen zwei Ebenen der Kommunikation wahrgenommen werden."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Inhaltsebene gehört zum aktiven Zuhören."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Paraphrasieren und verbalisieren gehören zum aktiven Zuhören."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Verständnisfragen gehören zum aktiven Zuhören."
+        }
+      ],
+      "loesung": "B, C, D, E"
+    },
+    {
+      "nummer": 48,
+      "frage": "Kreuzen Sie die korrekten Aussagen an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "P. Watzlawick entwickelte 5 Grundsätze der menschlichen Kommunikation."
+        },
+        {
+          "buchstabe": "B",
+          "text": "V. Satir war eine amerikanische Familientherapeutin."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Der 5. Kommunikationstyp nach V. Satir wird als „kongruente Reaktion“ bezeichnet."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das „Eltern – Ich“ wird als moralische und wertende Instanz in der TA verstanden."
+        },
+        {
+          "buchstabe": "E",
+          "text": "NLP bedeutet: Neuro-Linguistische-Programmierung."
+        }
+      ],
+      "loesung": "A, B, C, D, E"
+    },
+    {
+      "nummer": 49,
+      "frage": "Welche Aussagen sind korrekt?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Fähigkeit zur Überkreuzung gilt als Hinweis auf neurologische Reife."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Es hat keinen Bezug zur Lateralisierung."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Überkreuzen ist ein wichtiger Meilenstein der sensomotorischen Entwicklung."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Vermeiden des Überkreuzens gilt als unproblematisch."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Überkreuzen betrifft nur grobmotorische Bewegungen."
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 50,
+      "frage": "Welche Maßnahmen unterstützen die selbstbestimmte Händigkeit?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Besteck immer in die dominante Hand legen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Das Kind konsequent auf eine Hand festlegen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Spielmaterial beidseitig anbieten."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Bevorzugte Hand des Kindes korrigieren."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Gegenstände mittig anbieten."
+        }
+      ],
+      "loesung": "C, E"
+    },
+    {
+      "nummer": 51,
+      "frage": "Welche Einschätzungen sind in diesem Alter (siehe Fall) passend und richtig? Mia (4;6 Jahre) malt gerne, hält den Stift jedoch sehr verkrampft im Faustgriff und ermüdet schnell. Beim Ausmalen fährt sie oft über die Linien hinaus. Die Erzieherin fragt sich, ob Mias grafomotorische Entwicklung altersentsprechend ist.",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine ausgereifte Dreipunkt-Stifthaltung wird mit 4 Jahren bereits erwartet."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Eine noch unreife Stifthaltung ist in diesem Alter entwicklungsbedingt möglich."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Grafomotorik ist unabhängig von Kraftdosierung."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Übermalen von Linien ist immer ein Zeichen für eine Störung."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Schnelle Ermüdung kann auf noch nicht ausgereifte Hand- und Rumpfstabilität hinweisen."
+        }
+      ],
+      "loesung": "B, E"
+    },
+    {
+      "nummer": 52,
+      "frage": "Welche grafomotorischen Voraussetzungen könnten hier (siehe Fall) beeinträchtigt sein? Jonas (6;10 Jahre) schreibt in der Schule sehr langsam. Er drückt stark auf den Stift, klagt über schmerzende Finger und verrutscht häufig auf dem Blatt. Seine Lehrerin beobachtet eine unsichere Augen-Hand- Koordination.",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Dosierte Anpassung des Krafteinsatzes"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Augen-Hand-Koordination"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Rumpfstabilität und Haltungskontrolle"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Wortschatzumfang"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Phonologische Bewusstheit"
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 53,
+      "frage": "Was ist das Mini-ICF-APP? Kreuzen Sie die richtig(en) Antwort(en) an! (X aus 5 Punkten)",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Diagnostikinstrument für psychische Erkrankungen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "ein Befundinstrument zu Erhebung von Einschränkungen in unterschiedlichen Fähigkeiten"
+        },
+        {
+          "buchstabe": "C",
+          "text": "ein digitales Programm (App) für psychische Erkrankungen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "dient der Erhebung von Patientendaten"
+        },
+        {
+          "buchstabe": "E",
+          "text": "alle Antworten sind richtig"
+        }
+      ],
+      "loesung": "B"
+    },
+    {
+      "nummer": 54,
+      "frage": "Welche Aussage(n) beschreiben Clinical Reasoning während der therapeutischen Befunderhebung richtig? Kreuzen Sie an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Clinical Reasoning bedeutet, dass Therapeut*innen von Anfang an Vermutungen bilden und diese während der Befunderhebung immer wieder überprüfen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Clinical Reasoning heißt, dass man erst am Ende der Befunderhebung Entscheidungen trifft, um Fehler zu vermeiden."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Clinical Reasoning bezieht sowohl objektive Tests als auch die subjektive Sicht der Patient*innen mit ein."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Clinical Reasoning besteht hauptsächlich darin, möglichst viele Tests durchzuführen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Clinical Reasoning spielt erst bei der Therapieplanung eine Rolle, nicht während der Befunderhebung."
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 55,
+      "frage": "Welche Aussage(n) unterscheiden Gesundheitsförderung von Prävention? Kreuzen Sie an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Gesundheitsförderung setzt an den sozialen, ökonomischen und ökologischen Lebensbedingungen an, während Prävention primär auf die Reduktion spezifischer Gesundheitsrisiken abzielt."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Prävention orientiert sich häufig an medizinisch‑epidemiologischen Modellen, während Gesundheitsförderung stärker auf Empowerment, Partizipation und Selbstbestimmung ausgerichtet ist."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Gesundheitsförderung stärkt Ressourcen und Handlungskompetenzen, unabhängig davon, ob ein konkretes Krankheitsrisiko vorliegt; Prävention ist dagegen immer krankheitsspezifisch."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Gesundheitsförderung und Prävention unterscheiden sich ausschließlich in der Zielgruppe, nicht jedoch in ihren theoretischen Grundlagen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Prävention umfasst ausschließlich verhältnisorientierte Maßnahmen, während Gesundheitsförderung ausschließlich verhaltensorientiert arbeitet."
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 56,
+      "frage": "Sie besuchen im Rahmen eines Programms zur Gesundheitsförderung Herrn K., 55 Jahre. Er berichtet, dass ihn die beruflichen Veränderungen zwar fordern, er sie aber „grundsätzlich verstehe“ und überzeugt ist, dass er „mit den richtigen Schritten gut damit umgehen kann“. Außerdem beschreibt er, dass er in der Situation einen persönlichen Sinn erkennt, weil er sich weiterentwickeln möchte. Sie möchten einschätzen, wie dieses hohe Kohärenzgefühl (SOC) seine Stressbewältigung nach Lazarus beeinflusst. Welche Aussage(n) trifft/treffen im Hinblick auf Herrn K. zu? Kreuzen Sie an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Aufgrund seines hohen SOC bewertet Herr K. die beruflichen Veränderungen in der primären Bewertung eher als Herausforderung statt als Bedrohung."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Herr K. schätzt in der sekundären Bewertung seine eigenen Bewältigungsressourcen realistischer ein, was seine Handlungssicherheit stärkt."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Sein hohes SOC erleichtert es ihm, flexibel zwischen verschiedenen Coping‑Strategien zu wechseln."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Herr K. wird die Situation wahrscheinlich als unkontrollierbar einstufen, da ein hohes SOC die Wahrnehmung von Handhabbarkeit reduziert."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Durch sein hohes SOC ist es unwahrscheinlich, dass er Sinn in der Situation erkennt, da dies nicht Teil der Stressbewertung ist."
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 57,
+      "frage": "Ein Klient stellt sich in der ambulanten Ergo‑ bzw. Physiotherapie vor. Der Tinetti‑Test ergibt einen Gleichgewichtsscore von 6/16 Punkten und einen Gangscores von 7/12 Punkten. Kreuzen Sie die korrekte(n) Aussage(n) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Gesamtpunktzahl weist auf ein moderates Sturzrisiko hin."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die Kombination aus unsicherem Gleichgewicht und breiter Gangspur ist typisch für ein erhöhtes Sturzrisiko."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Der Klient profitiert wahrscheinlich von aktivitätsfördernden Interventionen, um einer Negativspirale aus Angst und Vermeidung vorzubeugen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Mit 13/28 Punkten liegt ein geringes Sturzrisiko vor."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Testergebnisse sprechen für eine unauffällige Gleichgewichtskontrolle."
+        }
+      ],
+      "loesung": "B, C"
+    },
+    {
+      "nummer": 58,
+      "frage": "\"Sie kommen zu einem Hausbesuch bei Frau L., 82 Jahre. Die Tochter berichtet, dass ihre Mutter „seit gestern völlig anders“ sei. Frau L. wirkt unruhig, nestelt an der Kleidung und beantwortet Fragen teils verwirrt, teils gar nicht. Die Tochter sagt, dass ihre Mutter sonst „klar, aber vergesslich“ sei. Vor drei Tagen wurde Frau L. wegen einer Harnwegsinfektion antibiotisch behandelt. Während des Gesprächs schwankt Frau L. zwischen schläfrig und plötzlich sehr wach. Sie erkennt ihre Wohnung zeitweise nicht wieder und wirkt phasenweise ängstlich.\" Welche der folgenden Beobachtungen sprechen eher für ein Delir als für eine Demenz? Kreuzen Sie die korrekte(n) Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Akuter Beginn der Symptome innerhalb von Stunden bis wenigen Tagen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Deutliche Schwankungen im Bewusstseinszustand über den Tag"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Ausgeprägte Aufmerksamkeitsstörungen (z. B. kann dem Gespräch kaum folgen)"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Langsam fortschreitende Gedächtnisverschlechterung über Monate"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Frühe Störung des Kurzzeitgedächtnisses bei ansonsten stabilem Bewusstseinsniveau"
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 59,
+      "frage": "Welche der folgenden Risikofaktoren erhöhen das Sturzrisiko im Alter? Kreuzen Sie die korrekte(n) Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "reduzierte Kognition"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Inkontinenz"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Verwendung von Psychopharmaka"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Orthostase-Syndrom"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Verwendung von Psychopharmaka"
+        }
+      ],
+      "loesung": "A, B, C, D, E"
+    },
+    {
+      "nummer": 60,
+      "frage": "Mit welchen Fragen können Sie am besten ein bestehendes Sturzrisiko erkennen? Kreuzen Sie die korrekte(n) Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Haben Sie Angst, zu stürzen?"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Sind Sie in den letzten 12 Monaten gestürzt?"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Fühlen Sie sich unsicher beim Stehen oder Gehen?"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Nehmen Sie mehr als fünf Medikamente ein?"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Machen Sie Trainingsübungen für das Gleichgewicht und die Kraft?"
+        }
+      ],
+      "loesung": "A, B, C, D"
+    },
+    {
+      "nummer": 61,
+      "frage": "Welche Screening-Tests dienen zur Erkennung eines erhöhten Sturzrisikos? Kreuzen Sie die korrekte(n) Aussage(n) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Tinetti-Test"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Uhrentest"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Sehtest"
+        },
+        {
+          "buchstabe": "D",
+          "text": "kleines Blutbild"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Tandem-Test"
+        }
+      ],
+      "loesung": "A, E"
+    },
+    {
+      "nummer": 62,
+      "frage": "Der Teufelskreis der Sturzangst erklärt folgende Zusammenhänge... Kreuzen Sie die korrekte(n) Aussage(n) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Angst vor Stürzen führt zu Aktivitätsvermeidung, was wiederum körperliche Fähigkeiten abbaut."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Ein Sturz kann Angst auslösen, die das Risiko weiterer Stürze erhöht."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Angst vor Stürzen kann auch ohne vorherige Sturzerfahrung entstehen und die Selbstwirksamkeit beeinträchtigen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Menschen mit Sturzangst zeigen in der Regel eine verbesserte Gleichgewichtskontrolle."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Auswirkungen von Stürzen verlaufen bei allen Betroffenen in einer identischen, vorhersehbaren Kette."
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 63,
+      "frage": "Welche sprachlichen Besonderheiten sind bei FASD typisch? Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Verzögerte Sprachmeilensteine"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Probleme mit abstrakten Begriffen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Schwierigkeiten bei Metaphern"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Überdurchschnittlicher Wortschatz"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Eingeschränkte Erzählstruktur"
+        }
+      ],
+      "loesung": "A, B, C, E"
+    },
+    {
+      "nummer": 64,
+      "frage": "Ein Kind vermeidet Blickkontakt, reagiert kaum auf Ansprache und zeigt repetitive Handbewegungen. Welche Bereiche sind betroffen? Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Soziale Interaktion"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Kommunikation"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Motorische Kraft"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Verhaltensmuster"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Herz-Kreislauf-System"
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 65,
+      "frage": "Ein Kind mit FASD zeigt Wortfindungsstörungen und Schwierigkeiten, komplexe Sätze zu bilden. Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Sprachentwicklung"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Exekutivfunktionen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Semantisches Verständnis"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Motorische Kraft"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Narrative Fähigkeiten"
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 66,
+      "frage": "Welche Aussage(n) ist/sind korrekt?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Das CPPF zeigt eine geradlinige Behandlungsstruktur auf und bietet somit Orientierung und Grundlage für eine klientenzentrierte Vorgehensweise in der Ergotherapie."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Der \"Praxiskontext\" ist die Umgebung, in der die Therapie stattfindet, also die Räumlichkeiten der Praxis und die Ausstattung."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Das CPPF bettet den ergotherapeutischen Prozess in verschiedene Umgebungen ein: Rehabilitation, Prävention, Akutversorgung und Gemeinwesenorientierte Ergotherapie."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Bezugsrahmen sind die Teile aus anderen Fachbereichen, die für uns in der Therapie nützlich und wichtig sind (z.B.: Wissen über Anatomie aus der Medizin). Die Bezugsrahmen helfen uns Ergotherapeut*innen unsere Therapie mit Inhalt zu füllen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Der \"gesellschaftliche Kontext\" ist der Kontext in dem sich Klient*in und Therapeut*in bewegen und der beide auch prägt. Zum \"gesellschaftlichen Kontext\" gehören z.B. Sichtweisen und Einstellung zu Gesundheit und Leistungsversorgung, die Gesundheitsversorgung in Deutschland uvm."
+        }
+      ],
+      "loesung": "C, D, E"
+    },
+    {
+      "nummer": 67,
+      "frage": "Welche Aussagen zur ICD-Klassifikation von ASS sind korrekt? Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Im ICD-10 wurde ASS unter „tiefgreifende Entwicklungsstörungen“ geführt"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Im ICD-11 wird ASS den Störungen der neuronalen und mentalen Entwicklung zugeordnet"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Das Asperger-Syndrom ist im ICD-11 weiterhin als eigene Diagnose geführt"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Der Begriff „tiefgreifende Entwicklungsstörung“ entfällt im ICD-11"
+        },
+        {
+          "buchstabe": "E",
+          "text": "ASS zählt im ICD-11 zu affektiven Störungen"
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 68,
+      "frage": "Welche Symptome können bei FASD auftreten? Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Halluzinationen als Leitsymptom"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Herzfehler"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Störungen der Exekutivfunktionen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "fehlendes Philtrum"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Mikrozephalus"
+        }
+      ],
+      "loesung": "B, C, D, E"
+    },
+    {
+      "nummer": 69,
+      "frage": "Menschen mit einer Autismus-Spektrum-Störung profitieren im therapeutischen Setting besonders von … Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "einer reizarmen Umgebung mit klar definierten Arbeitsbereichen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "transparenten, vorhersehbaren Abläufen mit visueller Unterstützung"
+        },
+        {
+          "buchstabe": "C",
+          "text": "spontanen Aufgabenwechseln zur Förderung der Flexibilität"
+        },
+        {
+          "buchstabe": "D",
+          "text": "klar formulierten, eindeutigen Handlungsanweisungen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "einer bewusst stimulierenden Umgebung zur Förderung der Reizverarbeitung"
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 70,
+      "frage": "Welche Aussagen zur Beruflichen Handlungskompetenz nach Pätzold sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Berufliche Handlungskompetenz lässt sich in verschieden Dimensionen einteilen. Dazu gehören: die Methodenkompetenz, die Medienkompetenz, die Fachkompetenz und die Personalkompetenz."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die Methodenkompetenz bildet eine wesentliche Grundlage für die ergotherapeutische Fähigkeit sich immer auf den aktuellen Wissenstand zu halten. In den Bereich der Methodenkompetenz lassen sich Arbeitstechniken einordnen die u.a. zur Recherche, zum Zusammenfassen von Informationen und zum Erschließen neuen Wissens benötigt werden."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die soziale Kompetenz ist eine wesentliche Voraussetzung für die Arbeit im Bereich der Ergotherapie. Im Allgemeinen versteht man die Gesamtheit der Fertigkeiten, die für die soziale Interaktion nützlich und notwendig sind."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Zur ergotherapeutischen Fachkompetenz zählen: Einfühlungsvermögen, Kooperations-fähigkeit, manuelle Fähigkeiten, fundiertes Wissen in den ergotherapeutischen, medizinischen und psychologischen Wissensbereichen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Personalkompetenz beinhaltet die Bereitschaft und Fähigkeit, die eigene Entwicklung zu reflektieren und sich selbst weiterzuentwickeln. Sie umfasst unter anderem die Denkfähigkeit, Lernfähigkeit, Reflexionsfähigkeit, Zuverlässigkeit und Kreativität."
+        }
+      ],
+      "loesung": "B, C, E"
+    },
+    {
+      "nummer": 71,
+      "frage": "Was beschreibt der Begriff FASD? Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine genetische Entwicklungsstörung"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Eine pränatal erworbene Schädigung durch Alkoholkonsum der Mutter"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Eine postnatale Hirnschädigung"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Eine lebenslange körperliche und/oder geistige Beeinträchtigung"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Eine reversible Entwicklungsverzögerung"
+        }
+      ],
+      "loesung": "B, D"
+    },
+    {
+      "nummer": 72,
+      "frage": "Welche therapeutischen Grundprinzipien sind bei ASS besonders relevant? Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Individualisierte Therapieplanung"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Frühintervention"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Interdisziplinäre Zusammenarbeit"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Reizarme Strukturierung des Settings"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Konfrontative Exposition als Standard"
+        }
+      ],
+      "loesung": "A, B, C, D"
+    },
+    {
+      "nummer": 73,
+      "frage": "Der BOT-2 erfasst Kinder im Alter von... Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "2–10 Jahren"
+        },
+        {
+          "buchstabe": "B",
+          "text": "3–12 Jahren"
+        },
+        {
+          "buchstabe": "C",
+          "text": "4–14 Jahren"
+        },
+        {
+          "buchstabe": "D",
+          "text": "6–16 Jahren"
+        },
+        {
+          "buchstabe": "E",
+          "text": "8–18 Jahren"
+        }
+      ],
+      "loesung": "C"
+    },
+    {
+      "nummer": 74,
+      "frage": "Ein Kind mit ASS zeigt plötzlich Rückzug, reagiert nicht mehr auf Ansprache und beginnt rhythmisch zu schaukeln. Kreuzen Sie die korrekte(n)Antwort(en) an! x aus 5 Punkte",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Meltdown"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Shutdown"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Aggressionsstörung"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Epileptischer Anfall"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Trotzreaktion"
+        }
+      ],
+      "loesung": "B"
+    },
+    {
+      "nummer": 75,
+      "frage": "Welche Aussagen zum Instanzenmodell nach Freud sind richtig? Wählen Sie die korrekte(n) Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Das Es folgt dem Lustprinzip und strebt unmittelbare Bedürfnisbefriedigung an."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Das Ich handelt ausschließlich nach dem Lustprinzip."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Das Über-Ich enthält moralische Normen, Verbote und Ideale."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Es entwickelt sich zuletzt und repräsentiert erlernte soziale Regeln."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Das Ich vermittelt zwischen den Ansprüchen von Es, Über-Ich und Realität."
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 76,
+      "frage": "Welche Aussagen zur psychosexuellen Entwicklung nach Freud sind richtig? Wählen Sie die korrekte(n) Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Ein Kleinkind, das großen Stolz darauf entwickelt, seine Schließmuskeln zu kontrollieren, und sehr empfindlich reagiert, wenn Erwachsene eingreifen, zeigt Merkmale der analen Phase."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Ein zehnjähriges Kind, das starkes Interesse an körperlicher Nähe zeigt und häufig sexuelle Themen anspricht, befindet sich in der Latenzphase."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Ein Vorschulkind, das seine Eltern nach Geschlechterunterschieden fragt und bevorzugt Rollen- und Familienspiele spielt, zeigt typische Merkmale der phallisch-/ödipalen Phase."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ein Jugendlicher, der beginnt, intime Partnerschaften einzugehen und starke sexuelle Gefühle zu entwickeln, befindet sich in der genitalen Phase."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Ein Säugling, der durch Nuckeln, Saugen und orale Reize Beruhigung findet, zeigt typische Merkmale der oralen Phase."
+        }
+      ],
+      "loesung": "A, C, D, E"
+    },
+    {
+      "nummer": 77,
+      "frage": "Welche Aussagen zu Abwehrmechanismen nach Freud sind richtig? Wählen Sie die korrekte(n) Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Projektion bezeichnet das Zuschreiben eigener unerwünschter Gefühle an andere Personen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Verdrängung bedeutet, dass belastende Inhalte bewusst festgehalten werden."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Abwehrmechanismen dienen dem Schutz des Ichs, indem sie Angst reduzieren."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Sublimierung beschreibt die Umwandlung triebhafter Impulse in sozial akzeptierte Handlungen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Rationalisierung verstärkt das denken über die Probleme."
+        }
+      ],
+      "loesung": "A, C, D"
+    },
+    {
+      "nummer": 78,
+      "frage": "Welche Aussagen zum Eisbergmodell nach Freud sind richtig? Wählen Sie die korrekte(n) Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Das Bewusste umfasst nur einen kleinen Teil aller psychischen Vorgänge."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Das Unbewusste enthält verdrängte Wünsche, Konflikte und Triebe."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Das Vorbewusste besteht aus Inhalten, die grundsätzlich nie bewusst werden können."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das Modell dient der Veranschaulichung der unterschiedlichen Ebenen des psychischen Apparats."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Das Bewusste stellt den größten Anteil aller psychischen Prozesse dar."
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 79,
+      "frage": "Welche Aussagen zur Bedeutung von Krisen im psychosozialen Entwicklungsmodell nach Erik Erikson sind richtig? Wählen Sie die korrekte(n) Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine Krise ist bei Erikson ein natürlicher negativer Zustand, der die Entwicklung begleitet und nicht aufgelöst wird."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Krisen sind entscheidende Wendepunkte, an denen Individuen eine neue Ich-Qualität entwickeln können."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die erfolgreiche Bewältigung einer Krise führt zu einer stärkeren Ich-Identität und mehr Handlungsfähigkeit."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Laut Erikson haben Krisen keinen Einfluss auf spätere Entwicklungsphasen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Jede Phase enthält einen zentralen Konflikt, der sowohl positive als auch negative Entwicklungsmöglichkeiten bietet."
+        }
+      ],
+      "loesung": "B, C, E"
+    },
+    {
+      "nummer": 80,
+      "frage": "Welche Aussagen beschreiben korrekt zentrale Aspekte der 5. psychosozialen Phase nach Erik Erikson (Ich- Identität vs. Identitätsdiffusion)? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "In dieser Phase probieren Jugendliche unterschiedliche Rollen und Zukunftsbilder aus, um eine stabile Identität entwickeln zu können."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Eine gelungene Identitätsbildung führt zu einem Gefühl einer stabilen Identität, Klarheit über eigene Werte und Zukunftspläne."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Der zentrale Konflikt dieser Phase besteht darin, Vertrauen in Bezugspersonen aufzubauen und ein grundlegendes Sicherheitsgefühl zu entwickeln."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Die Bewältigung dieser Phase hängt nicht von sozialen Beziehungen ab, sondern entsteht weitgehend unabhängig von äußeren Einflüssen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Scheitert die Krise, zeigt sich dies ausschließlich durch aggressives und rebellisches Verhalten."
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 81,
+      "frage": "Welche Aussagen spiegeln korrekt die jeweilige psychosoziale Phase nach Erikson wider? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "In der ersten Phase entwickelt das Kind Urvertrauen, indem Bezugspersonen zuverlässig reagieren und Sicherheit vermitteln."
+        },
+        {
+          "buchstabe": "B",
+          "text": "In der schulischen Phase (Werksinn vs. Minderwertigkeitsgefühl) steht die Loslösung von Bezugspersonen und der Aufbau stabiler romantischer Beziehungen im Vordergrund."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Initiative-Phase zeichnet sich dadurch aus, dass Kinder Verantwortung übernehmen möchten. Sie erproben spielerisch neue Rollen und lernen dadurch."
+        },
+        {
+          "buchstabe": "D",
+          "text": "In der Autonomiephase lernt die Person vor allem, akademische Leistungen zu erbringen und Selbstständig zu sein."
+        },
+        {
+          "buchstabe": "E",
+          "text": "In der Adoleszenz-Phase ist das zentrale Thema, dass Kinder durch körperliche Kontrolle und Sauberkeitserziehung Selbstständigkeit entwickeln."
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 82,
+      "frage": "Welche Aussagen beschreiben korrekt Assimilation oder Akkommodation im Sinne Piagets? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Assimilation bedeutet, dass neue Informationen in ein bereits bestehendes Schema eingeordnet werden."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Akkommodation bedeutet, dass ein bestehendes Schema verändert oder neu gebildet wird, weil es nicht zur neuen Erfahrung passt."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Wenn ein Kind erkennt, dass eine Katze kein Hund ist, und deshalb sein Schema anpasst, ist das Akkommodation."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Assimilation beschreibt die Veränderung eines Schemas, damit es an die Umweltanforderungen angepasst werden kann."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Wenn ein Kind alles, was vier Beine hat, zunächst als „Hund“ bezeichnet, handelt es sich um Assimilation."
+        }
+      ],
+      "loesung": "A, B, C, E"
+    },
+    {
+      "nummer": 83,
+      "frage": "Welche Aussagen beschreiben korrekt, was Jean Piaget unter einem „Schema“ versteht? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Ein Schema ist eine mentale Struktur, die es ermöglicht, Erfahrungen zu organisieren und Handlungen zu planen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Ein Schema bezeichnet eine feste, unveränderliche Verhaltensabfolge, die sich im Laufe der Entwicklung nicht anpassen kann."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Ein Schema entspricht bei Piaget einer angeborenen Reflexhandlung, die sich im Laufe der Entwicklung konstant bleibt."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ein Schema ist ausschließlich sprachlich verfasst und entsteht erst im Jugendalter."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Schemata helfen Kindern, neue Informationen zu interpretieren und bestehendes Wissen zu erweitern."
+        }
+      ],
+      "loesung": "A, E"
+    },
+    {
+      "nummer": 84,
+      "frage": "Welche Aussagen beschreiben korrekt den Egozentrismus im Sinne von Jean Piaget? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Egozentrismus bedeutet, dass Kinder Schwierigkeiten haben zu erkennen, dass andere Menschen eine andere Perspektive einnehmen können."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Egozentrismus beschreibt, dass Kinder absichtlich ignorieren, was andere fühlen oder denken."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Der „Drei-Berge-Versuch“ zeigt, dass präoperationale Kinder oft nicht zwischen eigener und fremder Sichtweise unterscheiden können."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Egozentrismus bedeutet, dass Kinder im Vorschulalter Perspektivübernahme vollständig beherrschen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Egozentrismus tritt ausschließlich im Jugendalter auf, wenn Jugendliche sozial unsicher werden."
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 85,
+      "frage": "Welche Aussagen beschreiben korrekt Aspekte der Theory of Mind? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Theory of Mind bedeutet, dass Kinder verstehen, dass andere Menschen eigene Gedanken, Wünsche und Überzeugungen haben können."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Kinder besitzen ab Geburt eine vollständig ausgereifte Theory of Mind."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Theory of Mind beschreibt die Fähigkeit, konkrete Zahlen- und Mengenoperationen durchzuführen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ein Kind hat Theory of Mind entwickelt, wenn es weiß, dass alle Menschen die Welt exakt gleich wahrnehmen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Ein Hinweis auf Theory of Mind ist, dass Kinder erkennen, dass andere Menschen Informationen nicht besitzen, die sie selbst haben."
+        }
+      ],
+      "loesung": "A, E"
+    },
+    {
+      "nummer": 86,
+      "frage": "Welche Aussagen beschreiben korrekt Entwicklungsphasen im Stufenmodell nach Jean Piaget? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "In der sensumotorischen Phase beginnen Kinder, Objektpermanenz zu entwickeln und verstehen, dass Dinge weiter existieren, auch wenn sie nicht sichtbar sind."
+        },
+        {
+          "buchstabe": "B",
+          "text": "In der präoperationalen Phase können Kinder logisch über konkrete Sachverhalte nachdenken und Mengen in ihrer Gesamtheit vollständig erfassen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "In der konkret-operationalen Phase erwerben Kinder Fähigkeiten wie Perspektivübernahme, Klassifikation und das Verständnis von Mengenerhaltung."
+        },
+        {
+          "buchstabe": "D",
+          "text": "In der formal-operationalen Phase wird abstraktes und hypothetisches Denken möglich."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die sensumotorische Phase ist dadurch gekennzeichnet, dass Kinder bereits komplexe sprachliche Symbole einsetzen und logisch mit ihnen operieren."
+        }
+      ],
+      "loesung": "A, C, D"
+    },
+    {
+      "nummer": 87,
+      "frage": "Was unterscheidet frühkindliche Reflexe von „normalen“ (persistierenden) Reflexen? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Frühkindliche Reflexe sind zeitlich begrenzt und sollten im Verlauf des ersten Lebensjahres gehemmt bzw. integriert werden."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Frühkindliche Reflexe sind willentlich steuerbar, während normale Reflexe ausschließlich unwillkürlich ablaufen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Normale Reflexe wie der Patellarsehnenreflex bleiben lebenslang erhalten, während frühkindliche Reflexe meist verschwinden."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Frühkindliche Reflexe dienen vor allem der frühen neurologischen Reifung und dem Überleben, während normale Reflexe der Alltagsmotorik dienen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Normale Reflexe treten nur in den ersten Lebensmonaten auf und verschwinden, sobald die Großhirnrinde ausgereift ist."
+        }
+      ],
+      "loesung": "A, C, D"
+    },
+    {
+      "nummer": 88,
+      "frage": "Welche der folgenden Reflexe sind keine frühkindlichen Reflexe? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Asymmetrisch-Tonischer Nackenreflex (ATNR)"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Pupillenreflex"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Moro-Reflex"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Greifreflex (Palmarreflex)"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Würgereflex"
+        }
+      ],
+      "loesung": "B, E"
+    },
+    {
+      "nummer": 89,
+      "frage": "Welche der folgenden Aussagen trifft für eine normale motorische Entwicklung zu? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Entwicklung feinmotorischer Fähigkeiten geht der grobmotorischen Entwicklung voraus."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Motorische Entwicklung verläuft typischerweise vom Kopf zum Fuß (cephalokaudal)."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Jedes Kind durchläuft die gleichen motorischen Entwicklungsschritte, jedoch in individuell unterschiedlichem Tempo."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ein Kind muss unbedingt vollständig krabbeln, bevor es laufen lernt – sonst gilt die Entwicklung immer als pathologisch."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Motorische Fertigkeiten entwickeln sich von der Körpermitte zu den Extremitäten (proximodistal)."
+        }
+      ],
+      "loesung": "B, C, E"
+    },
+    {
+      "nummer": 90,
+      "frage": "Wie wird laut John Bowlby eine Bindung beschrieben? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Bindung entsteht laut Bowlby ausschließlich durch Fütterung und physiologische Bedürfnisbefriedigung."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Bindung ist nach Bowlby vor allem ein kulturelles Konstrukt und nicht biologisch verankert."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Bindung bezeichnet ein dauerhaftes emotionales Band, das ein Kind zu einer vertrauten Bezugsperson entwickelt."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Bindung zeigt sich unter anderem darin, dass ein Kind Nähe zur Bezugsperson sucht und bei Trennung Belastung erlebt."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Bindung gilt nur dann als vorhanden, wenn das Kind konstant körperliche Nähe verlangt und sich nicht von der Bindungsperson entfernt."
+        }
+      ],
+      "loesung": "C, D"
+    },
+    {
+      "nummer": 91,
+      "frage": "Welche Aussagen beschreiben korrekt Bindungstypen der „Strange Situation“ nach Mary Ainsworth? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Sicher gebundene Kinder zeigen Trennungsstress, suchen aktiv Nähe bei der Rückkehr der Bezugsperson und lassen sich gut beruhigen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Unsicher-vermeidend gebundene Kinder vermeiden die Nähe zur Bezugsperson und zeigen bei Trennung kaum sichtbare emotionale Reaktionen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Unsicher-ambivalent gebundene Kinder wirken gelassen, wenn die Bezugsperson geht, und begrüßen sie freundlich."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Desorganisiert gebundene Kinder zeigen widersprüchliche, oft bizarre Verhaltensweisen, wie Erstarren oder ungerichtetes Verhalten."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Sicher gebundene Kinder ignorieren die Bezugsperson nach der Rückkehr und spielen ungestört weiter."
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 92,
+      "frage": "Welche Verhaltensänderungen zeigten die Kinder im Bobo-Doll-Experiment, nachdem sie zuvor aggressive Modelle beobachtet hatten? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Kinder zeigten häufiger aggressives Verhalten gegenüber der Puppe, das sie zuvor beim Modell gesehen hatten."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Kinder entwickelten überwiegend starke Schuldgefühle und reduzierten ihr eigenes aggressives Verhalten deutlich."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Kinder ahmten nicht nur beobachtetes Verhalten nach, sondern zeigten auch aggressive Handlungen, die im Modell nicht vorkamen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Kinder reagierten ausschließlich verbal aggressiv, zeigten jedoch keinerlei körperliche Aggression."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Kinder spielten länger und intensiver aggressiv, wenn das Modell zuvor für sein Verhalten belohnt wurde."
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 93,
+      "frage": "Was beschreibt, was Bandura unter Modelllernen versteht? Wählen Sie die korrekten Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Modelllernen bedeutet, dass Menschen durch Beobachtung das Verhalten anderer aufnehmen und es später nachahmen können."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Modelllernen setzt voraus, dass das Verhalten des Modells bewusst erklärt wird und sprachlich vermittelt wird."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Beim Modelllernen spielen Prozesse wie Aufmerksamkeit, Behalten, motorische Reproduktion und Motivation eine zentrale Rolle."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Modelllernen beschreibt das Erlernen reflexartiger Bewegungsmuster durch wiederholte Übung."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Ein Verhalten kann beim Modelllernen auch dann erlernt werden, wenn es der Beobachter zunächst nur innerlich speichert und erst später ausführt."
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 94,
+      "frage": "Der wichtigste Bestandteil des Activity Card Sort (ACS) sind 83 Fotokarten, auf denen Erwachsene in der Ausübung verschiedener Alltagshandlungen abgebildet sind. Wählen Sie die korrekte(n) Antwort(en) aus!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Freizeitbereich"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Instrumentelle Aktivitäten"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Soziale Aktivitäten"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Aktivitäten der Grundversorgung"
+        },
+        {
+          "buchstabe": "E",
+          "text": "berufliche Tätigkeiten"
+        }
+      ],
+      "loesung": "A, B, C, E"
+    },
+    {
+      "nummer": 95,
+      "frage": "Nennen Sie vier mögliche Auswirkungen einer Fetalen Alkoholspektrumstörung (FASD)!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Mögliche Auswirkungen (vier Beispiele):\n- Wachstumsauffälligkeiten bzw. niedriges Geburtsgewicht/geringere Körpergröße\n- Mikrozephalie oder andere Auffälligkeiten der Gehirnentwicklung\n- Lern- und Gedächtnisprobleme, Aufmerksamkeits- und Exekutivfunktionsstörungen\n- Sprachentwicklungsverzögerungen und Koordinationsprobleme\n- charakteristische Gesichtsmerkmale, z. B. glattes Philtrum und schmale Oberlippe\n- angeborene Fehlbildungen, z. B. Herz- oder Nierenfehlbildungen"
+    },
+    {
+      "nummer": 96,
+      "frage": "Welche Aussage beschreibt am besten die Reihenfolge der Evidenzstufen in der wissenschaftlichen Forschung (von höherer zu niedrigerer Evidenzstufe)? Kreuzen Sie die richtige(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Fallberichte → Expert:innenmeinungen → Randomisierte kontrollierte Studien → Metaanalysen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Expert:innenmeinungen → Querschnittstudien → Metaanalysen → Experimente"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Querschnittstudien → Metaanalysen → Fallberichte → Randomisierte kontrollierte Studien"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Laboruntersuchungen → Metaanalysen → Fall-Kontroll-Studien → Randomisierte kontrollierte Studien"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Metaanalysen → Randomisierte kontrollierte Studien → Kohorten-Studien → Fallberichte"
+        }
+      ],
+      "loesung": "E"
+    },
+    {
+      "nummer": 97,
+      "frage": "Was versteht man unter „interner Evidenz“ im Kontext der Evidenzbasierten Medizin (EbM)? Kreuzen Sie die richtige(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Ergebnisse systematischer Reviews und Metaanalysen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Erhebung von Patientendaten durch randomisierte Studien"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Fähigkeiten, Erfahrung und klinisches Urteilsvermögen der/des Therapeut:in"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Leitlinien, die von Fachgesellschaften veröffentlicht werden"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Statistische Modelle aus epidemiologischen Daten"
+        }
+      ],
+      "loesung": "C"
+    },
+    {
+      "nummer": 98,
+      "frage": "Erläutern Sie das Explorationstraining, das bei Personen mit Neglekt angewendet wird!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Explorationstraining bei Neglect: systematisches, wiederholtes visuelles Absuchen des vernachlässigten Raumbereichs, häufig beginnend an einem gut wahrnehmbaren Fixpunkt auf der nicht betroffenen Seite und schrittweise zur betroffenen Seite. Dazu gehören Blick- und Kopfbewegungen, Suchstrategien, visuelle Anker (z. B. farbige Markierung am linken Seitenrand), strukturierte Suchaufgaben und alltagsnahe Übungen wie Lesen, Tisch abräumen oder Gegenstände finden. Feedback, verbale Selbstinstruktion und graduelle Steigerung sichern den Transfer."
+    },
+    {
+      "nummer": 99,
+      "frage": "Sowohl die räumlichen Störungen als auch die Apraxie lassen sich den neuropsychologischen Störungen zuordnen. Für eine zielgerichtete Therapie ist es wichtig, beide Störungen voneinander abzugrenzen. Nehmen Sie durch Ankreuzen eine Zuordnung der beschriebenen Beobachtungen beim „Öffnen einer Flasche“ zu den beiden Störungsbildern vor!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Zuordnung (wahrscheinlich):\n1. Eingießbewegung ohne vorheriges Öffnen des Deckels – Apraxie (Handlungsplanung/Sequenzierung)\n2. Greift beim Flaschegreifen daneben – räumliche Störung\n3. Dreht den Deckel in die falsche Richtung – Apraxie\n4. Gießt daneben – räumliche Störung\n5. Perseverationen – eher Apraxie bzw. Störung der Handlungssteuerung; klinisch auch frontal-exekutiv abzuklären\n6. Automatisches Öffnen gelingt, bei fokussierter Aufforderung/Planung aber nicht – Hinweis auf Apraxie, da automatisierte Handlungen teils besser erhalten sein können.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Beobachtungen",
+          "Räumliche Störung",
+          "Apraxie"
+        ],
+        "zeilen": [
+          "Macht Eingießbewegung, ohne den Deckel vorab zu öffnen",
+          "Greift beim Flasche greifen daneben",
+          "Dreht den Deckel in falsche Richtung",
+          "gießt daneben",
+          "Perseverationen sind zu beobachten",
+          "Beim automatischen Öffnen (ohne fokussierte Aufmerksamkeit) gelingt das Eingießen fehlerlos"
+        ]
+      }
+    },
+    {
+      "nummer": 100,
+      "frage": "Fallbeispiel: Die neunjährige Mila steht während der Hausaufgaben häufig auf, unterbricht Gespräche und verliert regelmäßig ihre Arbeitsmaterialien. In der Schule beendet sie Aufgaben oft nicht und reagiert schnell emotional. Analysieren Sie das folgende Fallbeispiel und ordnen Sie die beschriebenen Verhaltensweisen den Kernsymptomen der ADHS zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Zuordnung der Fallmerkmale zu ADHS-Kernsymptomen:\n- Steht während der Hausaufgaben häufig auf – Hyperaktivität\n- Unterbricht Gespräche – Impulsivität\n- Verliert Arbeitsmaterialien – Unaufmerksamkeit\n- Beendet schulische Aufgaben häufig nicht – Unaufmerksamkeit / Schwierigkeiten mit Ausdauer und Aufgabenorganisation\n- Reagiert schnell emotional – mögliche emotionale Dysregulation/Begleitproblematik; kein eigenständiges Kernsymptom der ICD-/DSM-ADHS-Kriterien."
+    },
+    {
+      "nummer": 101,
+      "frage": "Welche Empfehlungen werden in der Leitlinie zu Fatigue beschrieben?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Eine symptomorientierte Therapie wird empfohlen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Energiemanagement-Programme werden empfohlen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Individualisierte Pacing-Programme werden empfohlen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "In der Befundung wird ein klientenzentriertes Goal-Setting empfohlen."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Der Fokus liegt ausschließlich auf der körperlichen Therapie."
+        }
+      ],
+      "loesung": "A, B, C, D"
+    },
+    {
+      "nummer": 102,
+      "frage": "Welche Aussagen zu Pacing im Kontext von Fatigue bei MS sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Aktivitäten werden strukturiert und Pausen werden geplant, bevor es zur Erschöpfung kommt."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Erschöpfung wird durch moderate Belastung vermieden."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Pacing stellt eine wichtige Maßnahme für die Betroffenen dar."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Schonung ist der wichtigste Bestandteil des Pacings."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Eine kurzfristige Überlastung innerhalb des Pacings ist wünschenswert."
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 103,
+      "frage": "Im Clinical/Professional Reasoning werden drei Hauptelemente voneinander unterschieden. Ordnen Sie die 3 Elemente den Beschreibungen zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Zuordnung:\n1. Im Gedächtnis gespeicherte Beobachtungen, Erfahrungen, Kenntnisse und Einsichten – Wissen\n2. Informationsverarbeitung und Handlungssteuerung auf Grundlage von Wissen und Werten – Denken / Reasoning\n3. Denken über das eigene Denken und Steuern eigener geistiger Aktivitäten – Metakognition",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Elemente des CR",
+          "Bedeutung der Elemente"
+        ],
+        "zeilen": [
+          "Im Gedächtnis einer Person gespeicherte und reproduzierbare Beobachtungen, Erfahrungen, Kenntnisse und Einsichten über vielfältige Wirklichkeitsbereiche. Voraussetzung für bewusste Lern-, Denk- und Problemlösungsprozesse (Schaub u. Zenke 2000, S. 594).",
+          "Prozess und Ergebnis der Informationsverarbeitung und Handlungssteuerung auf der Grundlage von Wissen, Werten und Erkenntnis (Schaub u. Zenke 2000).",
+          "Denken über das eigene Denken, Wissen über das eigene Wissen; umfasst das Erkennen und Steuern eigener geistiger Aktivitäten (Nolting u. Paulus 1999, S. 51)."
+        ],
+        "begriffe": [
+          "(Zuordnungsbegriffe sind im Foto nicht vorgegeben.)"
+        ],
+        "textspalte": 1
+      }
+    },
+    {
+      "nummer": 104,
+      "frage": "Ordnen Sie den Beschreibungen je einen Begriff / einem Rehafeld zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Naheliegende Zuordnung:\n1. Selbstbestimmtes „Sein“, umfassende Unterstützung und flexible Tagesformorientierung – palliative bzw. erhaltende Rehabilitation/Ergotherapie\n2. Umgang mit Beeinträchtigungen, Hilfsmittel, Anpassung und neue Perspektiven – kompensatorische/adaptive Rehabilitation\n3. Wiederherstellung bzw. Verbesserung von Funktionen und Integration in Handlung – restitutive/restaurative Rehabilitation",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Beschreibung",
+          "Begriff / Rehafeld"
+        ],
+        "zeilen": [
+          "Der Schwerpunkt liegt nicht auf Zugewinn und Verbesserung von Funktion/Aktivität, sondern berücksichtigt, dass jeder Mensch einen Bereich braucht, in dem er/sie selbstbestimmt ohne große Mühe „sein“ kann. Hilfe erfolgt umfassend und nach Absprache; Vereinbarungen richten sich nach Tagesform und verändernden Bedingungen.",
+          "Schwerpunkt ist die Entwicklung von Perspektiven für das Leben als Person mit Beeinträchtigungen. Eigene Fähigkeiten werden eingeschätzt und Einschränkungen in der Handlungskompetenz erkannt. Hilfsmittel werden kennengelernt und angewendet, Aktivitäten geübt und der Umgang mit Krankheit bzw. neuer Lebenssituation unterstützt.",
+          "Im Mittelpunkt stehen der Zugewinn bzw. die Wiederherstellung körperlicher und kognitiver Grundfunktionen und deren Integration in Handlungen."
+        ]
+      }
+    },
+    {
+      "nummer": 105,
+      "frage": "Ein Jugendlicher verbringt täglich 10 Stunden mit Online-Gaming. Er vernachlässigt Freunde, schläft wenig und reagiert gereizt, wenn er nicht spielen kann. Analysieren Sie das Fallbeispiel und nennen Sie drei Warnsignale einer problematischen Mediennutzung! Begründen Sie Ihre Auswahl!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Drei bis vier Warnsignale:\n- Vernachlässigung von Freundschaften/sozialen Kontakten und Rückzug\n- Schlafmangel bzw. Beeinträchtigung von Tagesstruktur und Erholung\n- Kontrollverlust oder Gereiztheit, wenn das Spielen unterbrochen wird\n- Fortsetzung trotz negativer Folgen und Verdrängung anderer Lebensbereiche.\nDie tägliche Spieldauer von 10 Stunden allein beweist keine Gaming Disorder."
+    },
+    {
+      "nummer": 106,
+      "frage": "Beschreiben Sie die vier Stadien „vom Genuss zur Sucht“.",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Das in vielen Unterrichtsmaterialien verwendete vereinfachte Stufenmodell lautet:\n1. Genuss – kontrolliertes, gelegentliches Verhalten mit positivem Erleben\n2. Gewöhnung – das Verhalten wird häufiger und Teil einer Routine\n3. Missbrauch/problematischer Gebrauch – negative Folgen treten auf, das Verhalten wird dennoch fortgesetzt\n4. Abhängigkeit/Sucht – Kontrollverlust, starkes Verlangen und fortgesetztes Verhalten trotz erheblicher Schäden.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Nr.",
+          "Stadium",
+          "Kurze Erklärung"
+        ],
+        "zeilen": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "nummer": 107,
+      "frage": "Nehmen Sie eine Zuordnung der Aussagen zur Constrained/Constraint Induced Movement Therapy (CIMT) zu den Kategorien „wahr“ und „falsch“ vor!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "1. Wahr\n2. Falsch\n3. Wahr\n4. Wahr\n5. Nicht eindeutig\n6. Falsch\n7. Falsch\n8. Wahr",
+      "aufgabenmaterial": {
+        "aussagen": [
+          "Bei der CIMT wird die weniger betroffene Extremität für einen Großteil des Tages physisch eingeschränkt, um die Nutzung der betroffenen Seite zu fördern.",
+          "CIMT besteht ausschließlich darin, die nicht-betroffene Extremität ruhigzustellen.",
+          "Das Training bei CIMT ist durch viele Wiederholungen und Aufgabenorientierung gekennzeichnet.",
+          "Ein Schwerpunkt der CIMT ist „Shaping“, bei dem Bewegungsaufgaben dem Leistungsniveau des Patienten angepasst und sukzessive schwerer werden.",
+          "Für CIMT wird ein Vertrag abgeschlossen, in dem festgehalten wird, dass während der Therapie eine Restriktion stattfindet.",
+          "CIMT ist besonders wirksam, wenn der Patient keinerlei Restbewegungen in der betroffenen Extremität hat.",
+          "CIMT wird vorrangig als Gruppentherapie durchgeführt.",
+          "Vor allem Personen mit leichten und moderaten Armparesen profitieren von CIMT."
+        ]
+      }
+    },
+    {
+      "nummer": 108,
+      "frage": "Frau K. ist Lektorin in einem großen Verlag für medizinische Fachbücher. Seit ihrem Schlaganfall vor 6 Monaten haben sich ihre Probleme stark verbessert. Gegenwärtig fühlt sie sich noch durch eine leichte Armparese und einen sich zurückbildenden Neglect eingeschränkt. Vor allem merkt sie dies bei ihrer Tätigkeit als Lektorin, so fällt es ihr u. a. noch schwer, die Satzanfänge auf dem Monitor zu finden. In 2 Wochen möchte sie mit dem Hamburger Modell mit einer Arbeitszeit von 2 Stunden anfangen. Gegenwärtig ordnet die Ergotherapeutin die Awareness der Klientin in eine auftauchende Awareness ein. Als Ziel der Therapie hat sie angegeben, dass sie Möglichkeiten finden möchte, sicher die Straße zu überqueren und ihre Tätigkeit als Lektorin auszuüben. Nutzen Sie das Modell der nachhaltigen Teilhabe (siehe Abbildung), um Ihre Behandlungsansätze zu Frau K. darzustellen! Gehen Sie dabei im Bereich Awarenesserarbeitung auf 1, im Funktionstraining auf 2 und in „Handlungen sicher ermöglichen“ auf mindestens 3 Ansätze ein!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Behandlungsansätze entlang der drei Bereiche:\n\n**Awarenesserarbeitung – verstehen (1 Ansatz):** Video- oder Spiegel-Feedback beim Lesen/Scannen und bei einer alltagsnahen Suchaufgabe; die Klientin schätzt vorher ein, was gelingen wird, beobachtet die Ausführung und vergleicht Selbst- und Fremdeinschätzung. Ziel ist, die Neglect-Auswirkungen im Alltag besser zu erkennen.\n\n**Funktionstraining – verbessern (2 Ansätze):** (1) systematisches visuelles Explorationstraining mit Anker am linken Seitenrand, Blick-/Kopfbewegung und gradueller Steigerung; (2) Lese- und Bildschirmtraining mit Markierungen, Suchaufgaben und gezieltem Auffinden von Zeilen-/Satzanfängen. Ergänzend armbezogenes, aufgabenspezifisches Greif- und Handfunktionstraining.\n\n**Handlungen sicher ermöglichen (mindestens 3 Ansätze):** (1) Straßenüberquerung zunächst im geschützten Umfeld und anschließend mit therapeutischer Begleitung üben, systematisch beide Seiten scannen und Verkehrssituationen einschätzen; (2) visuelle Anker/Checklisten am Arbeitsplatz nutzen, z. B. farbige Markierung am linken Bildschirmrand; (3) stufenweise Wiedereingliederung mit 2 Stunden Arbeitszeit, Pausen und klar abgegrenzten Aufgaben; (4) Arbeitsplatz und Bildschirm so strukturieren, dass linksseitige Informationen sichtbar sind; (5) Strategien in realen Alltags- und Arbeitsaufgaben üben und Angehörige/Arbeitsplatz nach Einwilligung einbeziehen.",
+      "aufgabenmaterial": {
+        "bereiche": [
+          "Awarenesserarbeitung – verstehen",
+          "Funktionstraining – verbessern",
+          "Handlungen jetzt sicher ermöglichen"
+        ],
+        "hinweis": "Ansätze je Bereich eintragen; die Abbildung selbst ist im Foto enthalten."
+      }
+    },
+    {
+      "nummer": 109,
+      "frage": "Welche Verlaufsformen der Multiplen Sklerose werden voneinander unterschieden?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Schubförmig-remittierende MS (RRMS) mit Phasen der Remission"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Sekundär progressive MS (SPMS) nach initialem schubförmigem Verlauf"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Primär progressive MS (PPMS) mit kontinuierlichem Fortschritt"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Schlagartig auftretende MS mit Heilung innerhalb von Wochen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Radiär progressive MS mit ausschließlich spinalem Befall"
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 110,
+      "frage": "Welche Symptome können bei der Multiplen Sklerose auftreten?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Pathologischer Hypertonus (Spastizität) und Muskelschwäche"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Sensibilitätsstörungen und Parästhesien"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Optikusneuritis mit Sehstörungen und Augenschmerzen"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Alzheimer-ähnliche Demenz als Primärsymptom"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Hyperaktivität"
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 111,
+      "frage": "Welche Aussagen zur Prognose und zum Verlauf der MS sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Die Prognose ist individuell sehr variabel und schwer vorherzusagen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Patienten mit frühem Schubstart haben oft eine bessere Prognose als bei später Erstmanifestation."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Künstliche Süßstoffe als Hauptrisikofaktor"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Eine rechtzeitige Therapieeinleitung kann die Schubraten reduzieren."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Sekundär progressive MS entwickelt sich aus der schubförmig-remittierenden Form."
+        }
+      ],
+      "loesung": "A, D, E"
+    },
+    {
+      "nummer": 112,
+      "frage": "Ordnen Sie die folgenden Aussagen den Kategorien „richtiges Therapieziel“ oder „kein Therapieziel“ der Genusstherapie zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Richtiges Therapieziel: (2) Vermittlung eines spezifischen, selbstbestimmten Umgangs mit potenziell Genussvollem; (3) Aktualisierung angenehmer Vorerfahrungen durch Vorstellungsübungen; (5) Aufbau von Eigenverantwortung und Stärkung der Autonomie.\nKein Therapieziel: (1) Essen in sozialen Situationen vermeiden; (4) Essen als Hauptquelle für Freude.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Aussage",
+          "Richtiges Therapieziel",
+          "Kein Therapieziel"
+        ],
+        "zeilen": [
+          "Essen in sozialen Situationen vermeiden",
+          "Vermittlung eines ganz spezifischen Umgangs mit potenziell Genussvollem",
+          "Aktualisierung angenehmer Vorerfahrungen im Kontext von Vorstellungsübungen",
+          "Essen als Hauptquelle für Freude",
+          "Aufbau von Eigenverantwortung und Stärkung der Autonomie"
+        ],
+        "ankreuzen": true
+      }
+    },
+    {
+      "nummer": 113,
+      "frage": "„Zu den übergeordneten therapeutischen Zielen der Genusstherapie gehört die bewusste Aktivierung und Differenzierung der Sinneswahrnehmung.“ Entscheiden Sie, ob diese Aussage wahr oder falsch ist. Kreuzen Sie die Antwort an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Wahr"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Falsch"
+        }
+      ],
+      "loesung": "A"
+    },
+    {
+      "nummer": 114,
+      "frage": "Nehmen Sie Stellung zu folgender Aussage: „Menschen mit Demenz können von Kognitiver Stimulation profitieren.“ Formulieren Sie in Ihrer Stellungnahme drei Statements.",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Drei fachlich tragfähige Statements:\n1. Ja, Menschen mit leichter bis mittelschwerer Demenz können von strukturierter kognitiver Stimulation profitieren; Gruppen-CST wird in NICE-Leitlinien empfohlen.\n2. Kognitive Stimulation bietet soziale Interaktion, Kommunikation und kognitive Aktivierung und kann sich positiv auf Kognition und Wohlbefinden auswirken.\n3. Sie heilt Demenz nicht und stoppt die Erkrankung nicht; Inhalte und Anforderungen müssen an Biografie, Fähigkeiten, Vorlieben und Tagesform angepasst werden."
+    },
+    {
+      "nummer": 115,
+      "frage": "Beantworten Sie folgende Fragen zum Thema der „Basalen Stimulation“!\n1. Was versteht man unter dem Begriff „basale Stimulation“?\n2. Welche Sinneswahrnehmungen werden durch basale Stimulation angesprochen?\n3. Welche Bedeutung hat die basale Stimulation für die Lebensqualität von Menschen mit Demenz?",
+      "antwortmoeglichkeiten": [],
+      "loesung": "1. Basale Stimulation ist ein Konzept pflegerischer und therapeutischer Angebote, das Menschen mit schweren Wahrnehmungs-, Bewegungs- oder Kommunikationsbeeinträchtigungen über elementare Sinnes- und Körpererfahrungen unterstützt.\n2. Angesprochen werden u. a. somatische/taktile und propriozeptive, vestibuläre, vibratorische, orale/gustatorische, olfaktorische, auditive, visuelle und haptische Wahrnehmung.\n3. Bei Menschen mit Demenz können vertraute, individuell abgestimmte Reize Körperwahrnehmung, Orientierung, Kommunikation, Kontakt, Wohlbefinden und Teilhabe unterstützen. Reize müssen biografisch passend, dosiert und beobachtet werden."
+    },
+    {
+      "nummer": 116,
+      "frage": "Die ansässige Ergotherapeutin hat eine kurze Zusammenfassung ihres motorisch-funktionellen Befundes in der Online-Akte der Klientin hinterlassen: Die eingeschränkte Dorsalextension der Klientin resultiert aus der Schwellung im Bereich des Art. radiocarpalis und der Dorsalseite der Hand. Zusätzlich ungünstig wirkt sich die zum Teil immobile Narbe an der Innenseite des Handgelenks, das eingeschränkte Gleitverhalten für die Dorsalextension und die hohe Spannung im Bereich der Handbeuger auf die Gesamtproblematik aus. Nennen Sie alle strukturspezifischen Untersuchungsschritte, die im Befund durchgeführt werden müssen, um diese Aussagen treffen zu können! Bringen Sie diese in eine logische Reihenfolge! Orientieren Sie sich hierbei an einem klassischen motorisch-funktionellen Befund!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Mögliche logische Befundreihenfolge:\n1. Anamnese und Inspektion beider Hände/Handgelenke: Schwellung, Haut, Form, Farbe, Haltung, Schonverhalten.\n2. Palpation und Ödembeurteilung: Lokalisation, Konsistenz, Umfangmessung/Umfangsvergleich.\n3. Narbenbefund: Lokalisation, Größe, Empfindlichkeit, Verschieblichkeit und Adhäsion in verschiedenen Richtungen.\n4. Aktive Bewegungsprüfung und Neutral-Null-Messung Dorsalextension/Palmarflexion.\n5. Passive Bewegungsprüfung inkl. Endgefühl und Seitenvergleich.\n6. Gelenkspiel/accessory glide des Art. radiocarpalis und ggf. mediocarpalis.\n7. Muskel- und Sehnenbefund: Tonus/Spannung, Länge und Dehnfähigkeit der Hand- und Fingerbeuger; ggf. Kraft und Funktionstest.\n8. Funktions-/Alltagsprüfung und Dokumentation."
+    },
+    {
+      "nummer": 117,
+      "frage": "Sie wollen eine NND-Messung für die Dorsalextension/Palmarflexion durchführen. Verbinden Sie hierfür bitte die Anlagepunkte des Goniometers mit der korrekten anatomischen Struktur!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Standardisierte Messung von Dorsalextension/Palmarflexion:\n- Drehpunkt: lateral über dem Os triquetrum (je nach Messvariante dorsal/volar über dem Capitatum).\n- Proximaler/fester Schenkel: entlang der Längsachse der Ulna/des Unterarms.\n- Distaler/beweglicher Schenkel: entlang des 5. Mittelhandknochens (Metacarpale V).\nDie in der Aufgabenliste genannte „Proc. styloideus ulnae“ dient als Landmarke zur Ausrichtung des festen Schenkels; sie ist bei der üblichen Standardmethode nicht der exakte Drehpunkt.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Anatomische Struktur",
+          "Anlagepunkt des Goniometers"
+        ],
+        "zeilen": [
+          "Proc. styloideus ulnae",
+          "Längsachse des Unterarms",
+          "Metacarpale IV der Hand"
+        ],
+        "begriffe": [
+          "Proximaler Schenkel",
+          "Distaler Schenkel",
+          "Drehpunkt"
+        ]
+      }
+    },
+    {
+      "nummer": 118,
+      "frage": "Welche der folgenden Bereiche zählen zu den vier zentralen Handlungsfeldern der Prävention laut Leitfaden Prävention? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Förderung gesundheitsgerechter Bewegungsgewohnheiten"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Stärkung individueller Bewältigungsstrategien im Umgang mit psychosozialen Belastungen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Verbesserung der pflegerischen Versorgung im häuslichen Umfeld"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Diagnostik und Therapie chronischer Erkrankungen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Schulung zur Einnahme von Medikamenten bei multimorbiden Patient:innen"
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 119,
+      "frage": "Welche Aussage beschreibt das WHOQOL-BREF Assessment zutreffend? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "WHOQOL-BREF erfasst subjektive Lebensqualität in vier Dimensionen: physisch, psychisch, sozial und umweltbezogen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Dient ausschließlich der Diagnose psychischer Erkrankungen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Lebensqualität wird objektiv anhand medizinischer Laborwerte gemessen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Beurteilt ausschließlich die finanzielle Situation der Befragten."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Instrument zur Messung beruflicher Leistungsfähigkeit."
+        }
+      ],
+      "loesung": "A"
+    },
+    {
+      "nummer": 120,
+      "frage": "Welche Aussagen beschreiben zentrale Merkmale des Frailty-Syndroms? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Frailty ist durch eine erhöhte Vulnerabilität gegenüber Stressfaktoren und eine verminderte physiologische Reserve gekennzeichnet."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Zu den Diagnosekriterien zählen u. a. ungewollter Gewichtsverlust, reduzierte Muskelkraft und verlangsamte Gehgeschwindigkeit."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Frailty kann mit Screening-Instrumenten wie der FRAIL-Scale oder der Clinical Frailty Scale erfasst werden."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Frailty betrifft ausschließlich Menschen mit neurologischen Erkrankungen wie Demenz oder Parkinson."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Das Syndrom wird ausschließlich durch Laborparameter wie CRP und Interleukine diagnostiziert."
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 121,
+      "frage": "Welche Assessmentkombination ist bei Verdacht auf visuelle Wahrnehmungsstörung mit visuomotorischen Schwierigkeiten sinnvoll? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "FEW-3 und Mannzeichen-Test"
+        },
+        {
+          "buchstabe": "B",
+          "text": "FEW-3 und M-ABC-2"
+        },
+        {
+          "buchstabe": "C",
+          "text": "BOT-2 und ET6-6"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Mottier-Test und FEV-3"
+        },
+        {
+          "buchstabe": "E",
+          "text": "ABA und ET6-6R [Abkürzung im Foto unsicher]"
+        }
+      ],
+      "loesung": "B"
+    },
+    {
+      "nummer": 122,
+      "frage": "Was beschreibt, was Bandura unter Modelllernen versteht? Wählen Sie die korrekte(n) Antwort(en)!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Modelllernen bedeutet, dass Menschen durch Beobachtung das Verhalten anderer aufnehmen und es später nachahmen können."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Modelllernen setzt voraus, dass das Verhalten des Modells bewusst erklärt wird und sprachlich vermittelt wird."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Beim Modelllernen spielen Prozesse wie Aufmerksamkeit, Behalten, motorische Reproduktion und Motivation eine zentrale Rolle."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Modelllernen beschreibt das Erlernen reflexartiger Bewegungsmuster durch wiederholte Übung."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Ein Verhalten kann beim Modelllernen auch dann erlernt werden, wenn es der Beobachter zunächst nur innerlich speichert und erst später ausführt."
+        }
+      ],
+      "loesung": "A, C, E"
+    },
+    {
+      "nummer": 123,
+      "frage": "Ordnen Sie die Aussagen zur evidenzbasierten Therapie bei Armparesen durch Ankreuzen der Kategorien „wahr“ und „falsch“ zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "1. Wahr\n2. Falsch\n3. Wahr (mit Einschränkung)\n4. Im Grundsatz wahr\n5. Falsch\n6. Falsch\n7. Falsch\n8. Falsch",
+      "aufgabenmaterial": {
+        "aussagen": [
+          "Bei einer leichten Armparese kann frühzeitig mit aktivem, aufgabenspezifischem Training begonnen werden.",
+          "Aufgabenspezifisches Training ist eine evidenzbasierte Methode, die sich für alle Schweregrade eignet.",
+          "Elektrostimulation wird bei moderater und schwerer Armparese als ergänzende Maßnahme eingesetzt.",
+          "Ein höheres Maß an Therapieintensität führt in der Regel zu besseren Ergebnissen bei Armparesen.",
+          "Die Auswahl der Therapie sollte unabhängig vom Schweregrad der Armparese erfolgen.",
+          "Bei schwerer Armparese sollte die Therapie ausschließlich passiv durchgeführt werden.",
+          "Robotergestützte Therapien zeigen keine nachgewiesene Wirksamkeit zur Verbesserung der Armfunktion bei Armparese.",
+          "Die S3-Leitlinie empfiehlt keine individuelle Anpassung der Therapie an Patientenbedürfnisse und klinischen Zustand."
+        ]
+      }
+    },
+    {
+      "nummer": 124,
+      "frage": "Nennen Sie 5 Probleme auf Körperfunktions-/Körperstrukturebene, die Personen mit einer Hirnläsion haben können!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Mögliche Probleme auf Körperfunktions-/Körperstrukturebene (fünf nennen):\n- Parese oder Lähmung / reduzierte Muskelkraft\n- Spastik bzw. veränderter Muskeltonus\n- Sensibilitätsstörungen / veränderte Propriozeption\n- Gesichtsfeldausfall oder Neglect\n- Aphasie, Dysarthrie oder Schluckstörung\n- Schmerzen, Ödeme oder eingeschränkte Gelenkbeweglichkeit\n- Fatigue, Aufmerksamkeits- oder Gedächtnisstörungen."
+    },
+    {
+      "nummer": 125,
+      "frage": "Welche Aussagen beschreiben zentrale Aspekte von Gesundheitskompetenz? Kreuzen Sie die korrekte(n) Aussage(n) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Gesundheitskompetenz umfasst die Fähigkeit, Gesundheitsinformationen zu finden, zu verstehen und anzuwenden."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Eine hohe Gesundheitskompetenz fördert eigenverantwortliches Handeln in Gesundheitsfragen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Entwicklung von Gesundheitskompetenz liegt beim medizinischen Fachpersonal."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Die Bewertung von Gesundheitsinformationen obliegt den Ärzten."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Gesundheitskompetenz unterstützt informierte Entscheidungen im Alltag, etwa bei Ernährung oder Bewegung."
+        }
+      ],
+      "loesung": "A, B, E"
+    },
+    {
+      "nummer": 126,
+      "frage": "Kreuze die richtigen Antworten an! Ziele innerhalb des Energiemanagements bei Fatigue sind ...",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Gleichgewicht zwischen Aktivität und Erholung herstellen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Energie bewusster einsetzen"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Warnsignale früh erkennen (z. B. Konzentrationsabfall)"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Aktivitäten in kleinere Einheiten einteilen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Hohe Belastungen tolerieren"
+        }
+      ],
+      "loesung": "A, B, C, D"
+    },
+    {
+      "nummer": 127,
+      "frage": "Welche Aussagen zu Merkmalen einer adäquaten Tagesstrukturierung bei Fatigue sind korrekt?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Ignorieren von Fatigue-Symptomen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Feste Pausen integrieren"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Alltag mehr kontrollieren"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Wichtige Aktivitäten in leistungsstarke Zeiten legen"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Am Nachmittag die Aktivitäten mit dem höchsten Energiebedarf [Wortlaut am unteren Bildrand abgeschnitten]"
+        }
+      ],
+      "loesung": "B, D"
+    },
+    {
+      "nummer": 128,
+      "frage": "Welches Programm zur Sturzprävention für die einzelnen Klient*innen ist zielführend?\n\na) Dieter F. (78 Jahre) hat Osteoporose und ist vor einem Jahr auf den Treppen am Bahnhof gestürzt. Dabei erlitt er eine Schenkelhalsfraktur, die mit einer Totalendoprothese operativ versorgt wurde. Seitdem kam es zu mehreren „Beinahestürzen“. Der Hausarzt empfiehlt ein Sturzpräventionsprogramm, damit er sich zu Hause sicher bewegen kann.\nProgramm: ______\n\nb) Helga S. (68 Jahre) lebt in einer betreuten Wohnform und hat guten Kontakt zu ihren Nachbarn. Nach einem Klinikaufenthalt wegen einer Infektion zeigen sich Muskelschwäche, Desorientierung und Schwindel.\n\nc) Lutz M. (85 Jahre) hat eine mittelschwere Demenz, benötigt Unterstützung bei ADLs und ist bereits mehrfach gestürzt. Er ist stets guter Laune und lässt sich für Aktivitäten begeistern.",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Plausible Programmzuordnung, vorbehaltlich genauer Befundung:\n- Dieter (78, Hüftfraktur/TEP, Osteoporose, Beinahe-Stürze): strukturiertes Kraft- und Gleichgewichtstraining mit progressivem Übungsplan, z. B. Otago Exercise Programme; vorher ärztliche/physiotherapeutische Belastungs- und Sturzrisikoprüfung.\n- Helga (68, nach Infekt, Schwäche, Desorientierung, Schwindel): zuerst Ursachenabklärung (Orthostase, Medikamente, Infektfolgen, Delir), dann individuell dosiertes Kraft-/Balance- und Mobilitätstraining mit engmaschiger Sicherung; ein LiFE-Ansatz kann später im Alltag integriert werden, sobald kognitiv und medizinisch geeignet.\n- Lutz (85, mittelschwere Demenz, wiederholte Stürze): angeleitetes, einfach strukturiertes Kraft- und Gleichgewichtstraining in vertrauter Umgebung; bei Wohn-/Pflegeeinrichtung kann ein HIFE-ähnliches Programm passend sein, mit geschulter Begleitung und angepasster Kommunikation."
+    },
+    {
+      "nummer": 129,
+      "frage": "Welche Ziele verfolgt das Marburger Konzentrationstraining? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Verbesserung der Feinmotorik"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Förderung der Selbstinstruktion"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Reduktion impulsiven Verhaltens"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Steigerung der Ausdauer bei Aufgaben"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Konzentration evidenzbasiert zu erfassen"
+        }
+      ],
+      "loesung": "B, C, D"
+    },
+    {
+      "nummer": 130,
+      "frage": "Lothar ist ein 45-jähriger Mann, der aufgrund von beruflichem Stress und einer ungesunden Work-Life-Balance in ergotherapeutische Behandlung kommt. Er fühlt sich oft überfordert, hat Schwierigkeiten, abzuschalten, und leidet unter Schlaflosigkeit. Lothar möchte lernen, wie er Stress besser bewältigen und Genussmomente in seinen Alltag integrieren kann, um sein Wohlbefinden zu steigern. Sie werden in der Ergotherapie mit Lothar Genusstraining durchführen. Zu Beginn stellen Sie die Genussregeln vor. Nennen Sie von den 7 Genussregeln 5!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Fünf von sieben Genussregeln, z. B.:\n- Genuss braucht Zeit.\n- Genuss muss erlaubt sein.\n- Genuss geht nicht nebenbei.\n- Wissen, was einem gut tut – jedem das Seine.\n- Weniger ist mehr.\nWeitere häufig genannte Regeln: Genuss ist alltäglich; ohne Erfahrung, was einem gut tut, kein Genuss. (In manchen Fassungen wird Askese als zusätzliche Regel geführt.)"
+    },
+    {
+      "nummer": 131,
+      "frage": "Ordnen Sie die aufgeführten Textstellen den Graden der Awareness zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Zuordnung der Awareness-Grade:\n1. „Bitte sagen Sie mir Bescheid, wenn mein Bein vom Rollstuhltisch rutscht. Ich merke das nicht!“ – antizipatorische Awareness (erkennt die eigene Einschränkung und organisiert vorsorglich Hilfe).\n2. „Die Rollstühle sind wirklich schlecht zu bedienen. Die fahren nur immer in eine Richtung.“ – fehlende/geringe Awareness bzw. externalisierende Erklärung.\n3. „Ich bin zuerst an meinem Zimmer vorbeigefahren, da ich es zuerst rechts gesucht habe.“ – emergente Awareness (erkennt den Fehler im Nachhinein).\n4. „Meine Frau hat mir erklärt, dass ich einen Neglect habe!“ und fährt anschließend an den Türrahmen – intellektuelle Awareness (kognitive Kenntnis ohne wirksame Erkennung der konkreten Alltagssituation).",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Awareness-Grad",
+          "Textstelle"
+        ],
+        "zeilen": [
+          "„Bitte sagen Sie mir Bescheid, wenn mein Bein vom Rollstuhltisch rutscht. Ich merke das nicht!“",
+          "„Also die Rollstühle sind wirklich schlecht zu bedienen. Die fahren nur immer in eine Richtung.“",
+          "„Ich bin zuerst an meinem Zimmer vorbeigefahren, da ich es zuerst rechts gesucht habe.“",
+          "„Meine Frau hat mir erklärt, dass ich einen Neglekt habe!“ Kurz danach fährt der Klient an einen Türrahmen und kann sich nicht selbst befreien."
+        ],
+        "textspalte": 1
+      }
+    },
+    {
+      "nummer": 132,
+      "frage": "Neurokognitive Rehabilitation: Der Klient schließt die Augen und konzentriert sich während der passiven Bewegungsausführung auf relevante somästhetische Informationen. In welchem Übungsgrad führt die Therapeutin die Übung mit dem Klienten aus?",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Übungsgrad 1 (erster Grad): Die Therapeutin führt die Bewegung passiv aus, während die Klientin die Augen schließt und die somästhetischen Informationen bewusst wahrnimmt/identifiziert."
+    },
+    {
+      "nummer": 133,
+      "frage": "Welche Aussagen sind laut der Neurokognitiven Rehabilitation über die Aufmerksamkeit richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Ohne Konzentration ist gezieltes Lernen unmöglich."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Augen schließen lenkt Aufmerksamkeit auf den Körper."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Aufmerksamkeit aktiviert Gehirnareale für den fokussierten Körperbereich."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Aufmerksamkeit ist nur für mentale Leistungen wichtig."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Hinspüren/Reinspüren erfordert 100%ige Konzentration."
+        }
+      ],
+      "loesung": "A, B, C"
+    },
+    {
+      "nummer": 134,
+      "frage": "Ordnen Sie die Begriffe aus dem Bereich der Behandlung von sensorischen Störungen den Beschreibungen zu!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Zuordnung:\n- Erkunden von Alltagsgegenständen mit/ohne Sichtkontakt und Seitenvergleich – Explorationstraining.\n- Erkennen des Areals durch statische/bewegte Reize – Lokalisationstraining.\n- Unterscheiden von Formen/Oberflächen und Manipulieren von Gegenständen – Diskriminationstraining.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Behandlungsschwerpunkte",
+          "Beschreibung"
+        ],
+        "zeilen": [
+          "Erkunden von Alltagsgegenständen mit/ohne Sichtkontakt im Seitenvergleich zur Entwicklung neuer Schemata.",
+          "Erkennen des Areals durch Applikation verschiedener statischer, bewegter Reize ohne/mit Sichtkontakt.",
+          "Erkennen verschiedener Formen, Oberflächen ohne/mit Sichtkontakt und Manipulation von Gegenständen."
+        ],
+        "begriffe": [
+          "Lokalisationstraining",
+          "Diskriminationstraining",
+          "Explorationstraining"
+        ],
+        "textspalte": 1
+      }
+    },
+    {
+      "nummer": 135,
+      "frage": "Im Anschluss an die NND-Messung führen Sie auf Grund der offensichtlichen Bewegungseinschränkung in Dorsalextension das passive Nachtesten/Endgefühl durch. Nennen Sie die drei physiologischen Endgefühle! Ordnen Sie jedem Endgefühl die entsprechende anatomische Struktur zu, die diese Bewegung bremst!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Drei physiologische Endgefühle:\n- Weich: Weichteile nähern sich an und komprimieren (z. B. Ellenbogenflexion oder Handgelenk je nach Bewegung).\n- Fest/derb: Dehnung von Kapsel, Bändern oder Muskulatur begrenzt die Bewegung.\n- Hart: knöcherner Anschlag/Knochenkontakt begrenzt die Bewegung."
+    },
+    {
+      "nummer": 136,
+      "frage": "Frau Karpalis kommt heute zu Ihnen in die ergotherapeutische Behandlung und Sie wollen mit Hilfe einer Gleitmobilisation das eingeschränkte Bewegungsausmaß in der Dorsalextension des Art. radiocarpalis verbessern. Beschreiben Sie, wie Sie die Gleitmobilisation durchführen würden. Nutzen Sie hierfür die Tabelle!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Beispielvorgehen zur Gleitmobilisation für mehr Dorsalextension:\n- Klientin sitzt, Unterarm proniert und aufliegend/abgestützt, Handgelenk nahe Neutralstellung; schmerz- und frakturadaptiert.\n- Art. radiocarpalis: konkaver Partner ist die distale Radiusfläche mit Discus ulnaris; konvexer Partner ist die proximale Handwurzelreihe.\n- Therapeut:in stabilisiert Radius/Ulna proximal und fasst die proximale Handwurzelreihe distal.\n- Für Dorsalextension erfolgt bei konvex-konkaver Regel ein palmarer/volarer Gleitimpuls der proximalen Handwurzelreihe (Glide entgegengesetzt zur dorsalen Rollbewegung).\n- Mit geringer, schmerzfreier Dosierung beginnen und Reaktion/ROM kontrollieren; nach Fraktur nur im freigegebenen Belastungsrahmen.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Aspekt",
+          "Beschreibung"
+        ],
+        "zeilen": [
+          "Ausgangstellung Klientin",
+          "Ausgangstellung Art. radiocarpalis",
+          "Konkaver Gelenkpartner",
+          "Konvexer Gelenkpartner",
+          "Proximale Therapeut:in-Hand",
+          "Distale Therapeut:in-Hand",
+          "Schubrichtung"
+        ]
+      }
+    },
+    {
+      "nummer": 137,
+      "frage": "Sie beobachten in einer Fachklinik im Rahmen der Ergotherapie folgende Situation: Junge Erwachsene laufen quer durch den Raum und sollen sich auf Ansage mit verschiedensten Körperteilen begrüßen. Danach werden sie aufgefordert, ein Wettspiel à la Twister zu spielen. Abschließend sitzen alle in einer Reihe und massieren sich den Rücken. Der/die behandelnde Ergotherapeut:in begründet dieses Angebot unter psychomotorischen Gesichtspunkten. Wie ist das zu verstehen? a) Definieren Sie Psychomotorik!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Psychomotorik ist ein ganzheitlicher Ansatz, der die Wechselwirkung von Bewegung, Wahrnehmung, Erleben, Emotion, Denken und sozialem Handeln betrachtet. Bewegung wird als Mittel genutzt, mit dem Menschen sich selbst, Materialien und andere Menschen erfahren und ihre Persönlichkeit entwickeln. In der Ausgangslage werden Körpererfahrung (Begrüßung mit Körperteilen), Material-/Raumerfahrung (Twister) und soziale Erfahrung (Rückenmassage in der Gruppe) angesprochen."
+    },
+    {
+      "nummer": 138,
+      "frage": "„Der Mensch braucht Bewegung, um beweglich zu bleiben.“ Welche Rolle spielt die Bewegung in der Psychomotorik? Begründen Sie mithilfe der Definition der Psychomotorik und den Bedeutungsdimensionen (siehe Gruppe)!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Bewegung ist in der Psychomotorik zugleich Ausdruck, Handlungsmittel und Lernweg. Über Bewegung entwickeln Menschen Körperbild, Selbstwirksamkeit, Raum- und Materialerfahrung, soziale Kompetenzen und emotionale Regulation. Sie ermöglicht aktive Auseinandersetzung mit sich selbst, der Umwelt und anderen Menschen."
+    },
+    {
+      "nummer": 139,
+      "frage": "In der Psychomotorik spielen ERFAHRUNGEN eine bedeutende Rolle. Benennen Sie die 3 Erfahrungsfelder und stellen Sie einen Bezug zur Ausgangslage her!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Die drei Erfahrungsfelder:\n- Körpererfahrung: eigenes Körpergefühl, Körperteile bewegen, Körpergrenzen und Bewegung wahrnehmen (z. B. verschiedene Körperteile begrüßen).\n- Material-/Sacherfahrung: Materialien und räumliche Eigenschaften erkunden (z. B. Twister-Matte und deren Farbfelder/Positionen).\n- Sozialerfahrung: Kontakt, Kooperation und Rücksichtnahme (z. B. gemeinsame Rückenmassage in der Gruppe)."
+    },
+    {
+      "nummer": 140,
+      "frage": "Welche Aussagen helfen dabei, Gesundheitsförderung und Prävention voneinander zu unterscheiden? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Gesundheitsförderung zielt auf die Stärkung von Ressourcen und Lebenskompetenzen, unabhängig von konkreten Krankheitsrisiken."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Prävention umfasst Maßnahmen zur Verhinderung, Früherkennung oder Verzögerung von Krankheiten."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Gesundheitsförderung ist auf medizinische Interventionen ausgerichtet."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Prävention und Gesundheitsförderung sind identisch und können synonym verwendet werden."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Gesundheitsförderung beschränkt sich auf die Behandlung bereits bestehender Erkrankungen."
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 141,
+      "frage": "Was sind zentrale Annahmen des Health Belief Model (HBM)? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Menschen verhalten sich gesundheitsförderlich, wenn sie eine persönliche Bedrohung durch Krankheit wahrnehmen."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Die Wahrscheinlichkeit einer Verhaltensänderung steigt, wenn wahrgenommene Vorteile die Barrieren überwiegen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Das Modell geht davon aus, dass Emotionen wie Freude und Wut das Gesundheitsverhalten primär steuern."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Das HBM basiert auf der Annahme, dass Gesundheitsverhalten ausschließlich durch soziale Normen bestimmt wird."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Das Modell berücksichtigt keine individuellen Einschätzungen von Risiken oder Nutzen."
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 142,
+      "frage": "Welche Faktoren stehen laut der HLS-GER 2 Studie im Zusammenhang mit problematischer Gesundheitskompetenz? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Ein niedriges Bildungsniveau"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Ein hoher sozialer Status"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Höheres Lebensalter"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Regelmäßige sportliche Aktivität"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Zugang zu digitalen Medien"
+        }
+      ],
+      "loesung": "A, C"
+    },
+    {
+      "nummer": 143,
+      "frage": "Welche Aussagen zur ADHS sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "ADHS ist eine reine Erziehungsproblematik."
+        },
+        {
+          "buchstabe": "B",
+          "text": "ADHS ist eine neurobiologische Entwicklungsstörung."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Symptome verändern sich im Verlauf des Alters."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Motorische Unruhe kann bereits im Kleinkindalter auftreten."
+        },
+        {
+          "buchstabe": "E",
+          "text": "ADHS ist eine Modeerscheinung ohne wissenschaftliche Grundlage."
+        }
+      ],
+      "loesung": "B, C, D"
+    },
+    {
+      "nummer": 144,
+      "frage": "Welche Aussagen zu Post-/Long-Covid-Fatigue sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Sie umfasst physische, kognitive oder emotionale Minderbelastbarkeit."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Sie ist nur auf körperliche Schwäche beschränkt."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Sie geht mit hoher Chronifizierungsgefahr einher."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Sie führt häufig zu erheblichen Einschränkungen der Partizipation im Alltag."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Sie tritt nur in den ersten 4 Wochen nach Infektion auf."
+        }
+      ],
+      "loesung": "A, D"
+    },
+    {
+      "nummer": 145,
+      "frage": "Welche Aussagen zur Multiplen Sklerose (MS) sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "MS ist eine degenerative Erkrankung des zentralen Nervensystems."
+        },
+        {
+          "buchstabe": "B",
+          "text": "MS ist eine Autoimmunerkrankung, bei der T-Zellen die Myelinscheide angreifen."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Entzündung führt zu einer Demyelinisierung von Nervenfasern."
+        },
+        {
+          "buchstabe": "D",
+          "text": "MS tritt ausschließlich bei Männern auf."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Erkrankung führt zu einer progressiven Nervenschädigung."
+        }
+      ],
+      "loesung": "B, C"
+    },
+    {
+      "nummer": 146,
+      "frage": "Lesen Sie die Fallsituation und ordnen Sie die kursiv geschriebenen Textstellen verschiedenen CR-Formen zu! Nutzen Sie die unten stehende Tabelle, um die Textstellen den verschiedenen Formen zuzuordnen!\n\nMaria P. arbeitet als Therapeutin in einer Praxis. Heute Nachmittag hat sie einen neuen Klienten, Herrn B. Von der Anmeldekraft hat sie nur die Information, dass er eine Trümmerfraktur am Unterarm hat und schon fängt es bei ihr im Kopf an zu rattern: „Mit großer Wahrscheinlichkeit wurde er operiert, wahrscheinlich mit einer Platten- oder Schraubenosteosynthese. Jetzt nach 7 Wochen darf er wahrscheinlich schon vollbelasten.“ Als er in die Praxis kommt, beobachtet sie ihn und denkt: „Ah, jung, sportlich, zügiges Gehen, ein Lächeln auf den Lippen, scheint ihm gut zu gehen.“ Seinen rechten Arm hält er sehr fixiert am Körper, kein Armpendel, wahrscheinlich Schmerzen oder eine hohe Spannung im Schultergürtel? Sein Sweatshirt ist von Consdaple und er hat seine Jacke offen, ist das Zufall oder ist das sein Statement für seine rechte Gesinnung. Wenn das so ist, dann weiß ich nicht so recht, wie gut ich damit klarkomme, er sieht doch so sympathisch aus. Dann kommt die Kollegin Kathrin zu ihr und sagt: „Du, ich weiß, du wolltest ja in den Bewegungsraum, aber ich würde gerne mit meiner Patientin in den großen Raum, um einen Bewegungsparcours mit ihr zu machen.“ Kathrin denkt sich: „Das bekomme ich schon hin, dann stelle ich mir die Bank anders hin, um besser untersuchen zu können.“",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Plausible Zuordnung der fünf Textstellen zu Clinical-Reasoning-Formen:\n1. Vermutung über Operation und Belastungsfreigabe – diagnostisches/prozedurales Reasoning (Hypothesen zu Verletzung, Versorgung und Belastbarkeit).\n2. Beobachtung „jung, sportlich, lächelt, scheint es ihm gut zu gehen“ – narratives/interpretatives Reasoning (Deutung der Person und ihrer Situation aus ersten Eindrücken; mit Risiko für vorschnelle Schlüsse).\n3. Beobachtung des fehlenden Armpendels und Vermutung von Schmerz/hohem Tonus – diagnostisches Reasoning.\n4. Bank umstellen, um untersuchen zu können – pragmatisches Reasoning (Ressourcen und Rahmenbedingungen).\n5. Bewertung des möglichen politischen Statements und eigener Reaktion – ethisches Reasoning (Werte, Haltung, professioneller Umgang).",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Textstelle",
+          "CR-Form"
+        ],
+        "zeilen": [
+          "Mit großer Wahrscheinlichkeit wurde er operiert, wahrscheinlich mit einer Platten- oder Schraubenosteosynthese. Jetzt nach 7 Wochen darf er wahrscheinlich schon vollbelasten.",
+          "Ah, jung, sportlich, zügiges Gehen, ein Lächeln auf den Lippen, scheint ihm gut zu gehen.",
+          "Seinen rechten Arm hält er sehr fixiert am Körper, kein Armpendel, wahrscheinlich Schmerzen oder eine hohe Spannung im Schultergürtel?",
+          "Das bekomme ich schon hin, dann stelle ich mir die Bank anders hin, um besser untersuchen zu können.",
+          "Sein Sweatshirt ist von Consdaple und er hat seine Jacke offen, ist das Zufall oder ist das sein Statement für seine rechte Gesinnung. Wenn das so ist, dann weiß ich nicht so recht, wie gut ich damit klarkomme, er sieht doch so sympathisch aus."
+        ]
+      }
+    },
+    {
+      "nummer": 147,
+      "frage": "Frau Karpalis kommt mit einer Heilmittelverordnung zu Ihnen in die Ergotherapiepraxis. Diese umfasst 10x motorisch-funktionelle Behandlung (2x wöchentlich). Die Diagnose lautet Zustand nach distaler Radiusfraktur links.\n\nFrau Karpalis ist vor sechs Wochen beim morgendlichen Spaziergang mit ihrem Hund auf nassem Laub ausgerutscht. Sie berichtet, dass sie instinktiv versucht habe, den Sturz mit der ausgestreckten linken Hand abzufangen. Sie habe den Spaziergang danach sofort abgebrochen und sei direkt nach Hause gegangen. Dort angekommen, wickelte sie das Handgelenk fest mit einer elastischen Binde ein und kühlte es, da die Schmerzen stark pochend waren und sie die Finger kaum noch zu einer Faust schließen konnte.\n\nAls das Handgelenk am späten Nachmittag massiv anschwoll und sie ein leichtes Kribbeln in den Fingerspitzen spürte, fuhr ihr Mann sie in die Notaufnahme. Das Röntgenbild bestätigte eine Fraktur des Radius mit leichter dorsaler Trümmerzone. Die Operation fand direkt am darauffolgenden Morgen statt. Dabei wurde die Fraktur mittels volarer Plattenosteosynthese reponiert und stabilisiert.\n\nFrau Karpalis darf das Handgelenk mittlerweile aktiv ohne Schiene im schmerzfreien Bereich bewegen und befindet sich in der 7. Woche nach der OP. Gemäß der ärztlichen Vorgabe darf sie jedoch für weitere zwei Wochen keine Lasten über 1 kg heben und muss Stützbewegungen sowie abrupte Zugbelastungen, wie z. B. das plötzliche Ziehen des Hundes an der Leine, strikt vermeiden.",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Noch nicht zuverlässig bestimmbar. Für diese Aufgabe konnte noch keine belastbare Lösung abgeleitet werden."
+    },
+    {
+      "nummer": 148,
+      "frage": "Welchen Stabilitätsgrad würden Sie Frau Karpalis in der 7. Woche postoperativ zuordnen? Begründen Sie Ihre Antwort!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Eine eindeutige numerische Stabilitätsstufe lässt sich aus den Angaben allein nicht sicher bestimmen, weil die Aufgabe das verwendete Stabilitätsgrad-Modell nicht benennt. Fachlich ableitbar ist: Die Fraktur ist volar plattenosteosynthetisch versorgt und für aktive, unbelastete Bewegung freigegeben; die Belastbarkeit bleibt ärztlich eingeschränkt (max. 1 kg, keine Stütz- oder Zugbelastung). Daher als „stabil für kontrollierte aktive Bewegung, aber noch nicht voll belastungsstabil“ beschreiben."
+    },
+    {
+      "nummer": 149,
+      "frage": "Welche Aussagen zu Übungen des 2. und 3. Grades im Rahmen der Neurokognitiven Rehabilitation sind richtig?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Bei den Übungen 2. Grades werden assistive Übungen durchgeführt und die Therapierenden unterstützen die korrekte Bewegungsausführung."
+        },
+        {
+          "buchstabe": "B",
+          "text": "Bei den Übungen 3. Grades führt die betroffene Person selbstständig die Bewegungen durch."
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die Patient:innen haben in diesen beiden Graden zur besseren Konzentration immer die Augen offen."
+        },
+        {
+          "buchstabe": "D",
+          "text": "Während der Übungen des 2. und 3. Grades spielt die Wahrnehmung keine Rolle mehr."
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Übungen des 2. und 3. Grades werden unabhängig von der Schwere der Erkrankung durchgeführt."
+        }
+      ],
+      "loesung": "A, B"
+    },
+    {
+      "nummer": 150,
+      "frage": "Welche sind die Hauptaufgaben der Therapierenden im Rahmen der Neurokognitiven Rehabilitation?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Förderung von Entspannung durch Aufträge zum Hinspüren/Reinspüren"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Unterstützen Patient:innen, ungünstige von günstigen Bewegungen zu erspüren"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Die therapierende Person führt grundsätzlich alle notwendigen Bewegungen aus"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Schafft die Bedingungen, dass die Patient:innen sich Bewegungsabläufen bewusst werden"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Gibt durch Elektrostimulation Reize"
+        }
+      ],
+      "loesung": "B, D"
+    },
+    {
+      "nummer": 151,
+      "frage": "Welches sind die Komponenten, mit denen in der Neurokognitiven Rehabilitation die Spezifik bei der Motorik bei „Spastik“ beschrieben wird?",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Abnorme Reaktion auf Dehnung (ARD): Erhöhter Widerstand bei passiven Bewegungen"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Abnorme Irradiation (AIR): Ungewollte Mitbewegungen von anderen Körperabschnitten"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Elementare Schemata (ES) werden im Rahmen der Therapie entwickelt"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Ein Rekrutierungsdefizit (RD) beeinträchtigt die Bewegungsqualität"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Die Komponenten sind nur bei passiven Bewegungen relevant"
+        }
+      ],
+      "loesung": "A, B, D"
+    },
+    {
+      "nummer": 152,
+      "frage": "Kreuzen Sie an, ob die folgenden Aussagen wahr oder falsch sind!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "1. Falsch\n2. Nicht eindeutig (Aussage im Foto fehlerhaft formuliert)\n3. Wahr\n4. Falsch\n5. Wahr\n6. Falsch",
+      "aufgabenmaterial": {
+        "aussagen": [
+          "„Stereotyp“ meint, dass Eigenschaften, die eine bestimmte soziale Gruppe kennzeichnen, kulturell geteilt werden und allgemeingültig sind.",
+          "Alters-Stereotypen erfahren vermeintlich immer wieder Bestätigung und besitzen somit eine hohe Änderungsgesetze.",
+          "Negative Altersstereotype münden in altersdiskriminierendes Verhalten („ageism“).",
+          "Patronisierende Kommunikation ist eine unterstützende Technik zwischen den Generationen jung und alt.",
+          "Das „Abhängigkeit-Unterstützen-Muster“ ist dadurch gekennzeichnet, dass die Pflegekräfte bei alltäglichen Verrichtungen auch dann unterstützend eingreifen, wenn die älteren Menschen eigentlich gar keine Hilfe benötigen.",
+          "In der patronisierenden Kommunikation werden bei der Begegnung mit einer (unbekannten) älteren Person positive Altersstereotype aktiviert und dieser Person werden Weisheit und hohe Kompetenzen in der Alltagsbewältigung zugeschrieben."
+        ]
+      }
+    },
+    {
+      "nummer": 153,
+      "frage": "Sie hören von Ihrem/Ihrer Klient*in immer wieder von sog. „Beinahe-Stürzen“. Warum sollten diese Aussagen Ihre Aufmerksamkeit erfahren? Begründen Sie!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Beinahe-Stürze sind klinisch relevant, weil sie auf instabile Balance, Gangunsicherheit, Risikosituationen oder unzureichende Reaktionen hinweisen können. Sie sind Warnsignale für ein erhöhtes künftiges Sturzrisiko und sollten Anlass für eine strukturierte Sturzanamnese, Medikamenten-/Umgebungsprüfung und ggf. Gleichgewichts- und Kraftassessment sein."
+    },
+    {
+      "nummer": 154,
+      "frage": "Sie arbeiten als Therapeut:in in einem interdisziplinären Team in einer neurologischen Rehabilitationsklinik. Regelmäßig finden interne Weiterbildungen statt. Da Sie gerade an einer Weiterbildung über Basale Stimulation teilgenommen haben, wiederholen Sie nun alle Ihr Wissen über Basale Stimulation. Ergänzen Sie folgende Tabelle mit jeweils 3 Stichpunkten!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Zielgruppe (drei Beispiele):\n- Menschen mit schwersten neurologischen Erkrankungen, Bewusstseins- oder Wahrnehmungsbeeinträchtigungen\n- Menschen mit schweren motorischen und/oder kognitiven Einschränkungen\n- Menschen mit Demenz, Schädel-Hirn-Trauma, Schlaganfall, Koma oder schwerer Mehrfachbehinderung.\nZiele (drei Beispiele):\n- basale Wahrnehmung und Körperorientierung fördern\n- Kommunikation und Beziehung zur Umwelt ermöglichen\n- Wohlbefinden, Sicherheit, Selbst- und Umweltwahrnehmung unterstützen.",
+      "aufgabenmaterial": {
+        "spalten": [
+          "Schwerpunkt",
+          "Ausführungen"
+        ],
+        "zeilen": [
+          "1. Zielgruppe der basalen Stimulation",
+          "2. Ziele der basalen Stimulation"
+        ]
+      }
+    },
+    {
+      "nummer": 155,
+      "frage": "Heute ist Frau K., die an einer schweren Armparese leidet, bei Ihnen zur Spiegeltherapie angemeldet. Vorab überlegen Sie sich noch einmal, worauf Sie bei der Gestaltung des Arbeitsplatzes zu achten haben. Beschreiben Sie das Setting! Gehen Sie dabei auf die räumliche Gestaltung und die Ausgangsstellung von Therapeutin und Klientin ein!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Spiegeltherapie-Setting:\n- Klientin sitzt stabil und bequem vor einem Tisch, möglichst in ruhiger, reizreduzierter Umgebung.\n- Spiegel steht senkrecht in der Körpermitte, parallel zur Sagittalebene und so ausgerichtet, dass das Spiegelbild der nicht betroffenen Hand/Armposition wie die betroffene Extremität erscheint.\n- Die betroffene Extremität liegt hinter dem Spiegel, die weniger betroffene davor; beide Arme sind möglichst symmetrisch positioniert.\n- Therapeutin sitzt so, dass sie Haltung, Sicherheit und Ausführung beobachten und bei Bedarf anleiten kann, ohne die Spiegelillusion unnötig zu stören.\n- Aufgaben zunächst einfache, schmerzfreie Bewegungen, Blick auf das Spiegelbild; Transfer in funktionelle Aufgaben schrittweise aufbauen."
+    },
+    {
+      "nummer": 156,
+      "frage": "Ein Kind hat Schwierigkeiten beim Auffinden von Gegenständen in einer unübersichtlichen Umgebung (z. B. Spielzeugkiste). Welche Wahrnehmungsbereiche sind primär betroffen? Kreuzen Sie die korrekte(n) Antwort(en) an!",
+      "antwortmoeglichkeiten": [
+        {
+          "buchstabe": "A",
+          "text": "Figur-Grund-Wahrnehmung"
+        },
+        {
+          "buchstabe": "B",
+          "text": "Formkonstanz"
+        },
+        {
+          "buchstabe": "C",
+          "text": "Gleichgewicht"
+        },
+        {
+          "buchstabe": "D",
+          "text": "Muskelkraft"
+        },
+        {
+          "buchstabe": "E",
+          "text": "Räumliche Beziehung"
+        }
+      ],
+      "loesung": "A"
+    },
+    {
+      "nummer": 157,
+      "frage": "Nennen Sie mindestens 5 Definitionsmerkmale von Arbeit (nach Jahoda & Schwendy)!",
+      "antwortmoeglichkeiten": [],
+      "loesung": "Fünf latente Funktionen nach Jahoda:\n- Zeitstrukturierung des Tages und der Woche\n- regelmäßige soziale Kontakte außerhalb der Kernfamilie\n- Teilhabe an kollektiven Zielen und einem gemeinsamen Zweck\n- Status und soziale Identität/Anerkennung\n- regelmäßige Aktivität bzw. das Erleben, gebraucht zu werden.\nDie manifeste Funktion ist zusätzlich das Einkommen, gehört aber nicht zu den fünf latenten Funktionen."
+    }
+  ]
+}
